@@ -1,0 +1,11 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"kas2_prop_light"
+		"kas2_tech"
+		"kas2_metals"
+	}
+}

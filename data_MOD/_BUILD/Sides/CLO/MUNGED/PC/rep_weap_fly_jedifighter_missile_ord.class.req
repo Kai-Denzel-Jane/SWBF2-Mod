@@ -1,0 +1,21 @@
+
+ucft
+{
+	REQN
+	{
+		"config"
+		"com_sfx_watersplash_md"
+		"com_sfx_weap_rockettrail"
+	}
+	REQN
+	{
+		"model"
+		"com_weap_missile"
+	}
+	REQN
+	{
+		"class"
+		"rep_weap_fly_jedifighter_missile_exp"
+		"com_weap_inf_ord_hum_rocket"
+	}
+}

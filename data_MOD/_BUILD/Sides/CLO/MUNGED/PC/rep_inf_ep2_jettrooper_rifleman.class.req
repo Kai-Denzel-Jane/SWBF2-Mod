@@ -1,0 +1,24 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"rep_htrooper_icon"
+	}
+	REQN
+	{
+		"class"
+		"rep_inf_default_jettrooper"
+		"rep_weap_inf_rifle"
+		"rep_weap_inf_pistol"
+		"rep_weap_inf_thermaldetonator"
+		"rep_weap_inf_fusioncutter"
+	}
+	REQN
+	{
+		"model"
+		"rep_inf_jettrooper"
+		"rep_inf_jettrooper_low1"
+	}
+}

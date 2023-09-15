@@ -1,0 +1,44 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"gunship_icon"
+		"hud_rep_gunship_icon"
+	}
+	REQN
+	{
+		"anim"
+		"human_drive"
+		"human_standing"
+	}
+	REQN
+	{
+		"model"
+		"rep_la_at_gunship"
+		"gunship_chunk1"
+		"gunship_chunk2"
+		"rep_la_at_gunship_hulk"
+	}
+	REQN
+	{
+		"class"
+		"rep_weap_fly_gunship_cannon"
+		"rep_weap_fly_gunship_missile"
+		"rep_weap_fly_gunship_wing"
+		"rep_weap_fly_gunship_ball"
+		"rep_fly_gunship_exp"
+	}
+	REQN
+	{
+		"config"
+		"dirtspray"
+		"com_sfx_chunktrail_sm"
+		"com_sfx_explosion_lg"
+		"com_sfx_smokeplume"
+		"com_sfx_vehiclespark_sc"
+		"com_sfx_vehiclesmoke_sc"
+		"com_sfx_vehicleflame_sc"
+	}
+}

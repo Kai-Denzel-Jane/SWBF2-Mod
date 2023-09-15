@@ -1,0 +1,26 @@
+
+ucft
+{
+	REQN
+	{
+		"animbank"
+		"rep_fly_assault"
+	}
+	REQN
+	{
+		"model"
+		"rep_fly_assault"
+	}
+	REQN
+	{
+		"config"
+		"com_sfx_vehiclespark"
+		"com_sfx_vehiclesmoke"
+		"com_sfx_vehicleflame"
+	}
+	REQN
+	{
+		"class"
+		"rep_fly_assault_exp"
+	}
+}

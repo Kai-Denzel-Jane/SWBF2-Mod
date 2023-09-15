@@ -1,0 +1,13 @@
+ucft
+{
+	REQN
+	{
+		"congraph"
+		"MOD_eli"
+	}
+	REQN
+	{
+		"world"
+		"MOD_eli"
+	}
+}

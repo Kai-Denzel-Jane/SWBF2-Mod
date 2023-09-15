@@ -1,0 +1,11 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"kas2_metals"
+		"kas2_bldg_platform_edge_lowrez"
+		"kas2_bldg_platform_edge"
+	}
+}

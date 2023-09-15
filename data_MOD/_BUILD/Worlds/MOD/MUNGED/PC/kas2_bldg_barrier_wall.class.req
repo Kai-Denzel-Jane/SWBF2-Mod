@@ -1,0 +1,14 @@
+
+ucft
+{
+	REQN
+	{
+		"model"
+		"kas2_bldg_barrier_wall"
+	}
+	REQN
+	{
+		"config"
+		"waterspout"
+	}
+}

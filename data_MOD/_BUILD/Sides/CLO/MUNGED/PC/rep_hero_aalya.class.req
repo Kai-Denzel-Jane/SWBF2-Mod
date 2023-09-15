@@ -1,0 +1,23 @@
+
+ucft
+{
+	REQN
+	{
+		"animbank"
+		"aalya"
+	}
+	REQN
+	{
+		"class"
+		"com_jedi_default"
+		"rep_weap_lightsaber_aalya"
+		"com_weap_inf_sabre_throw"
+		"com_weap_inf_force_pull"
+	}
+	REQN
+	{
+		"model"
+		"rep_inf_aaylasecura"
+		"rep_inf_aaylasecura_low1"
+	}
+}

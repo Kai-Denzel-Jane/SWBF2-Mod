@@ -1,0 +1,1877 @@
+Logging LevelPack
+17:48:3209/15/23
+
+=== kam_fly_ride_gunship.lvl ===
+Missing file gunship_icon.texture
+    Reqd by munged\pc\kam_fly_ride_gunship.class.req
+Missing file hud_rep_gunship_icon.texture
+    Reqd by munged\pc\kam_fly_ride_gunship.class.req
+Missing file rep_la_at_balls.texture
+    Reqd by munged\pc\rep_la_at_gunship.model.req
+            munged\pc\gunship_chunk1.model.req
+            munged\pc\rep_la_at_gunship_hulk.model.req
+Missing file rep_la_at.texture
+    Reqd by munged\pc\rep_la_at_gunship.model.req
+            munged\pc\gunship_chunk1.model.req
+            munged\pc\gunship_chunk2.model.req
+            munged\pc\rep_la_at_gunship_hulk.model.req
+Missing file rep_la_at_bump.texture
+    Reqd by munged\pc\rep_la_at_gunship.model.req
+Missing file rep_la_at_lowrez.texture
+    Reqd by munged\pc\rep_la_at_gunship.model.req
+Missing file com_weap_veh_fly_recoilless.class
+    Reqd by munged\pc\rep_weap_fly_gunship_cannon.class.req
+Missing file com_weap_veh_fly_recoilless_ord.class
+    Reqd by munged\pc\rep_weap_fly_gunship_cannon_ord.class.req
+Missing file com_weap_veh_fly_torpedo.class
+    Reqd by munged\pc\rep_weap_fly_gunship_missile.class.req
+Missing file com_weap_veh_fly_torpedo_ord.class
+    Reqd by munged\pc\rep_weap_fly_gunship_missile_ord.class.req
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\rep_weap_fly_gunship_wing.class.req
+Missing file reticule_rifle.texture
+    Reqd by munged\pc\rep_weap_fly_gunship_wing.class.req
+Missing file hud_weap_semiauto.texture
+    Reqd by munged\pc\rep_weap_fly_gunship_wing.class.req
+Missing file cis_sfx_weap_spiderdroid_ord_exp.config
+    Reqd by munged\pc\rep_weap_fly_gunship_wing_ord.class.req
+Missing file dirtspray.config
+    Reqd by munged\pc\kam_fly_ride_gunship.class.req
+
+=== rep_1st_trooper.lvl ===
+Missing file rep_1st_inf_clonetrooper_arms.texture
+    Reqd by munged\pc\rep_1st_trooper.model.req
+Missing file rep_1st_inf_clonetrooper_hands.texture
+    Reqd by munged\pc\rep_1st_trooper.model.req
+
+=== rep_bldg_forwardcenter.lvl ===
+Missing file hud_rep_forward_comm_icon.texture
+    Reqd by munged\pc\rep_bldg_forwardcenter.class.req
+Missing file geo_bld_forwardcenter_lowrez.texture
+    Reqd by munged\pc\rep_bldg_forwardcenter.model.req
+Missing file console_6.texture
+    Reqd by munged\pc\rep_bldg_forwardcenter.model.req
+            munged\pc\rep_bldg_forwardcenter_dest.model.req
+Missing file rep_prop_console_fx.texture
+    Reqd by munged\pc\rep_bldg_forwardcenter.model.req
+Missing file geo_bld_forwardcenter.texture
+    Reqd by munged\pc\rep_bldg_forwardcenter.model.req
+            munged\pc\rep_bldg_forwardcenter_dest.model.req
+            munged\pc\rep_bldg_forwardcenter_chunk1.model.req
+
+=== rep_fly_anakinstarfighter.lvl ===
+Missing file rep_fly_anakinstarfighter.class
+    Reqd by ..\..\..\sides\clo\req\rep_fly_anakinstarfighter.req
+
+=== rep_fly_anakinstarfighter_sc.lvl ===
+Missing file anistarfighter_icon.texture
+    Reqd by munged\pc\rep_fly_anakinstarfighter_sc.class.req
+Missing file hud_rep_jedistarfighter_icon.texture
+    Reqd by munged\pc\rep_fly_anakinstarfighter_sc.class.req
+Missing file rep_fly_anistarfighter_lowrez.texture
+    Reqd by munged\pc\rep_fly_anakinstarfighter.model.req
+Missing file craftr2d2.texture
+    Reqd by munged\pc\rep_fly_anakinstarfighter.model.req
+            munged\pc\rep_fly_anakinstarfighter_chunk4.model.req
+Missing file rep_fly_anistarfighter.texture
+    Reqd by munged\pc\rep_fly_anakinstarfighter.model.req
+            munged\pc\rep_fly_anakinstarfighter_chunk1.model.req
+            munged\pc\rep_fly_anakinstarfighter_chunk2.model.req
+            munged\pc\rep_fly_anakinstarfighter_chunk3.model.req
+            munged\pc\rep_fly_anakinstarfighter_chunk4.model.req
+Missing file com_weap_veh_fly_scoutlasers.class
+    Reqd by munged\pc\rep_weap_fly_anakin_cannon.class.req
+Missing file com_weap_inf_ord_hum_lg.class
+    Reqd by munged\pc\rep_weap_fly_jedifighter_cannon_ord.class.req
+Missing file com_weap_veh_fly_stingers.class
+    Reqd by munged\pc\rep_weap_fly_anakin_missile.class.req
+Missing file com_weap_inf_ord_hum_rocket.class
+    Reqd by munged\pc\rep_weap_fly_jedifighter_missile_ord.class.req
+
+=== rep_fly_arc170fighter.lvl ===
+Missing file rep_fly_arc170fighter.class
+    Reqd by ..\..\..\sides\clo\req\rep_fly_arc170fighter.req
+
+=== rep_fly_arc170fighter_dome.lvl ===
+Missing file rep_fly_arc170fighter_dome.class
+    Reqd by ..\..\..\sides\clo\req\rep_fly_arc170fighter_dome.req
+
+=== rep_fly_arc170fighter_sc.lvl ===
+Missing file arc170_icon.texture
+    Reqd by munged\pc\rep_fly_arc170fighter_sc.class.req
+Missing file hud_rep_jedistarfighter_icon.texture
+    Reqd by munged\pc\rep_fly_arc170fighter_sc.class.req
+Missing file rep_fly_arc170fighter.texture
+    Reqd by munged\pc\rep_fly_arc170fighter.model.req
+            munged\pc\rep_fly_arc170fighter_chunk1.model.req
+            munged\pc\rep_fly_arc170fighter_chunk2.model.req
+            munged\pc\rep_fly_arc170fighter_chunk3.model.req
+            munged\pc\rep_fly_arc170fighter_chunk4.model.req
+            munged\pc\rep_fly_arc170fighter_chunk5.model.req
+            munged\pc\rep_fly_arc170fighter_chunk6.model.req
+            munged\pc\rep_fly_arc170fighter_chunk7.model.req
+Missing file rep_fly_arc170fighter_bump.texture
+    Reqd by munged\pc\rep_fly_arc170fighter.model.req
+Missing file com_weap_veh_fly_multilasers.class
+    Reqd by munged\pc\rep_weap_fly_arc170_cannon.class.req
+Missing file com_weap_veh_fly_multilasers_ord.class
+    Reqd by munged\pc\rep_weap_fly_arc170_cannon_ord.class.req
+Missing file com_weap_veh_fly_torpedo.class
+    Reqd by munged\pc\rep_weap_fly_arc170_bomb.class.req
+Missing file com_weap_veh_fly_torpedo_ord.class
+    Reqd by munged\pc\rep_weap_fly_arc170_bomb_ord.class.req
+
+=== rep_fly_assault_dome.lvl ===
+Missing file rep_fly_assault.texture
+    Reqd by munged\pc\rep_fly_assault_dome.model.req
+
+=== rep_fly_cat_dome.lvl ===
+Missing file rep_fly_cat_dome.texture
+    Reqd by munged\pc\rep_fly_cat_dome.model.req
+
+=== rep_fly_gunship.lvl ===
+Missing file gunship_icon.texture
+    Reqd by munged\pc\rep_fly_gunship.class.req
+Missing file hud_rep_gunship_icon.texture
+    Reqd by munged\pc\rep_fly_gunship.class.req
+Missing file rep_la_at_balls.texture
+    Reqd by munged\pc\rep_la_at_gunship.model.req
+            munged\pc\gunship_chunk1.model.req
+            munged\pc\rep_la_at_gunship_hulk.model.req
+Missing file rep_la_at.texture
+    Reqd by munged\pc\rep_la_at_gunship.model.req
+            munged\pc\gunship_chunk1.model.req
+            munged\pc\gunship_chunk2.model.req
+            munged\pc\rep_la_at_gunship_hulk.model.req
+Missing file rep_la_at_bump.texture
+    Reqd by munged\pc\rep_la_at_gunship.model.req
+Missing file rep_la_at_lowrez.texture
+    Reqd by munged\pc\rep_la_at_gunship.model.req
+Missing file com_weap_veh_fly_recoilless.class
+    Reqd by munged\pc\rep_weap_fly_gunship_cannon.class.req
+Missing file com_weap_veh_fly_recoilless_ord.class
+    Reqd by munged\pc\rep_weap_fly_gunship_cannon_ord.class.req
+Missing file com_weap_veh_fly_torpedo.class
+    Reqd by munged\pc\rep_weap_fly_gunship_missile.class.req
+Missing file com_weap_veh_fly_torpedo_ord.class
+    Reqd by munged\pc\rep_weap_fly_gunship_missile_ord.class.req
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\rep_weap_fly_gunship_wing.class.req
+Missing file reticule_rifle.texture
+    Reqd by munged\pc\rep_weap_fly_gunship_wing.class.req
+Missing file hud_weap_semiauto.texture
+    Reqd by munged\pc\rep_weap_fly_gunship_wing.class.req
+Missing file cis_sfx_weap_spiderdroid_ord_exp.config
+    Reqd by munged\pc\rep_weap_fly_gunship_wing_ord.class.req
+Missing file com_weap_veh_fly_beam.class
+    Reqd by munged\pc\rep_weap_fly_gunship_ball.class.req
+Missing file com_weap_veh_fly_beam_ord.class
+    Reqd by munged\pc\rep_weap_fly_gunship_ball_ord.class.req
+Missing file dirtspray.config
+    Reqd by munged\pc\rep_fly_gunship.class.req
+
+=== rep_fly_gunship_dome.lvl ===
+Missing file rep_la_at_lowrez.texture
+    Reqd by munged\pc\rep_fly_gunship_dome.model.req
+
+=== rep_fly_gunship_sc.lvl ===
+Missing file gunship_icon.texture
+    Reqd by munged\pc\rep_fly_gunship_sc.class.req
+Missing file hud_rep_gunship_icon.texture
+    Reqd by munged\pc\rep_fly_gunship_sc.class.req
+Missing file rep_la_at_balls.texture
+    Reqd by munged\pc\rep_la_at_gunship.model.req
+            munged\pc\gunship_chunk1.model.req
+            munged\pc\rep_la_at_gunship_hulk.model.req
+Missing file rep_la_at.texture
+    Reqd by munged\pc\rep_la_at_gunship.model.req
+            munged\pc\gunship_chunk1.model.req
+            munged\pc\gunship_chunk2.model.req
+            munged\pc\rep_la_at_gunship_hulk.model.req
+Missing file rep_la_at_bump.texture
+    Reqd by munged\pc\rep_la_at_gunship.model.req
+Missing file rep_la_at_lowrez.texture
+    Reqd by munged\pc\rep_la_at_gunship.model.req
+Missing file com_weap_veh_fly_recoilless.class
+    Reqd by munged\pc\rep_weap_fly_gunship_cannon.class.req
+Missing file com_weap_veh_fly_recoilless_ord.class
+    Reqd by munged\pc\rep_weap_fly_gunship_cannon_ord.class.req
+Missing file com_weap_veh_fly_torpedo.class
+    Reqd by munged\pc\rep_weap_fly_gunship_missile.class.req
+Missing file com_weap_veh_fly_torpedo_ord.class
+    Reqd by munged\pc\rep_weap_fly_gunship_missile_ord.class.req
+Missing file com_weap_veh_fly_guided_rocket.class
+    Reqd by munged\pc\rep_weap_fly_gunship_guided_rocket.class.req
+Missing file com_weap_veh_fly_beam.class
+    Reqd by munged\pc\rep_weap_fly_gunship_ball.class.req
+Missing file com_weap_veh_fly_beam_ord.class
+    Reqd by munged\pc\rep_weap_fly_gunship_ball_ord.class.req
+Missing file dirtspray.config
+    Reqd by munged\pc\rep_fly_gunship_sc.class.req
+
+=== rep_fly_jedifighter.lvl ===
+Missing file rep_fly_jedifighter.class
+    Reqd by ..\..\..\sides\clo\req\rep_fly_jedifighter.req
+
+=== rep_fly_jedifighter_dome.lvl ===
+Missing file rep_fly_fighter_lowrez.texture
+    Reqd by munged\pc\rep_fly_jedifighter_dome.model.req
+Missing file rep_fly_fighter_canopy_lowrez.texture
+    Reqd by munged\pc\rep_fly_jedifighter_dome.model.req
+
+=== rep_fly_jedifighter_sc.lvl ===
+Missing file jedi_starfighter_icon.texture
+    Reqd by munged\pc\rep_fly_jedifighter_sc.class.req
+Missing file hud_rep_jedistarfighter_icon.texture
+    Reqd by munged\pc\rep_fly_jedifighter_sc.class.req
+Missing file rep_fly_jedifighter.model
+    Reqd by munged\pc\rep_fly_jedifighter_sc.class.req
+Missing file rep_fly_fighter.texture
+    Reqd by munged\pc\rep_fly_jedifighter_chunk1.model.req
+            munged\pc\rep_fly_jedifighter_chunk2.model.req
+            munged\pc\rep_fly_jedifighter_chunk3.model.req
+Missing file rep_fly_fighter_canopy.texture
+    Reqd by munged\pc\rep_fly_jedifighter_chunk1.model.req
+            munged\pc\rep_fly_jedifighter_chunk2.model.req
+Missing file reticule_rifle.texture
+    Reqd by munged\pc\rep_weap_fly_jedifighter_cannon.class.req
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\rep_weap_fly_jedifighter_cannon.class.req
+Missing file com_weap_inf_ord_hum_lg.class
+    Reqd by munged\pc\rep_weap_fly_jedifighter_cannon_ord.class.req
+Missing file hud_weap_semiauto.texture
+    Reqd by munged\pc\rep_weap_fly_jedifighter_missile.class.req
+Missing file reticule_rocket.texture
+    Reqd by munged\pc\rep_weap_fly_jedifighter_missile.class.req
+Missing file com_weap_inf_ord_hum_rocket.class
+    Reqd by munged\pc\rep_weap_fly_jedifighter_missile_ord.class.req
+Missing file dirtspray.config
+    Reqd by munged\pc\rep_fly_jedifighter_sc.class.req
+
+=== rep_fly_ride_gunship.lvl ===
+Missing file gunship_icon.texture
+    Reqd by munged\pc\rep_fly_ride_gunship.class.req
+Missing file hud_rep_gunship_icon.texture
+    Reqd by munged\pc\rep_fly_ride_gunship.class.req
+Missing file rep_la_at_balls.texture
+    Reqd by munged\pc\rep_la_at_gunship.model.req
+            munged\pc\gunship_chunk1.model.req
+            munged\pc\rep_la_at_gunship_hulk.model.req
+Missing file rep_la_at.texture
+    Reqd by munged\pc\rep_la_at_gunship.model.req
+            munged\pc\gunship_chunk1.model.req
+            munged\pc\gunship_chunk2.model.req
+            munged\pc\rep_la_at_gunship_hulk.model.req
+Missing file rep_la_at_bump.texture
+    Reqd by munged\pc\rep_la_at_gunship.model.req
+Missing file rep_la_at_lowrez.texture
+    Reqd by munged\pc\rep_la_at_gunship.model.req
+Missing file com_weap_veh_fly_recoilless.class
+    Reqd by munged\pc\rep_weap_fly_gunship_cannon.class.req
+Missing file com_weap_veh_fly_recoilless_ord.class
+    Reqd by munged\pc\rep_weap_fly_gunship_cannon_ord.class.req
+Missing file com_weap_veh_fly_torpedo.class
+    Reqd by munged\pc\rep_weap_fly_gunship_missile.class.req
+Missing file com_weap_veh_fly_torpedo_ord.class
+    Reqd by munged\pc\rep_weap_fly_gunship_missile_ord.class.req
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\rep_weap_fly_gunship_wing.class.req
+Missing file reticule_rifle.texture
+    Reqd by munged\pc\rep_weap_fly_gunship_wing.class.req
+Missing file hud_weap_semiauto.texture
+    Reqd by munged\pc\rep_weap_fly_gunship_wing.class.req
+Missing file cis_sfx_weap_spiderdroid_ord_exp.config
+    Reqd by munged\pc\rep_weap_fly_gunship_wing_ord.class.req
+Missing file dirtspray.config
+    Reqd by munged\pc\rep_fly_ride_gunship.class.req
+
+=== rep_fly_shuttleproto.lvl ===
+Missing file rep_fly_shuttleproto.class
+    Reqd by ..\..\..\sides\clo\req\rep_fly_shuttleproto.req
+
+=== rep_fly_vtrans.lvl ===
+Missing file rep_fly_vtrans.class
+    Reqd by ..\..\..\sides\clo\req\rep_fly_vtrans.req
+
+=== rep_fly_vwing.lvl ===
+Missing file v-wing_icon.texture
+    Reqd by munged\pc\rep_fly_vwing.class.req
+Missing file hud_rep_jedistarfighter_icon.texture
+    Reqd by munged\pc\rep_fly_vwing.class.req
+Missing file rep_fly_vwing.texture
+    Reqd by munged\pc\rep_fly_vwing.model.req
+            munged\pc\rep_fly_vwing_chunk1.model.req
+            munged\pc\rep_fly_vwing_chunk2.model.req
+            munged\pc\rep_fly_vwing_chunk3.model.req
+            munged\pc\rep_fly_vwing_chunk4.model.req
+Missing file rep_fly_vwing_bump.texture
+    Reqd by munged\pc\rep_fly_vwing.model.req
+Missing file rep_fly_vwing_windshield.texture
+    Reqd by munged\pc\rep_fly_vwing.model.req
+Missing file com_weap_veh_fly_chaingun.class
+    Reqd by munged\pc\rep_weap_fly_vwing_cannon.class.req
+Missing file com_weap_veh_fly_chaingun_ord.class
+    Reqd by munged\pc\rep_weap_fly_vwing_cannon_ord.class.req
+Missing file com_weap_veh_fly_bombs.class
+    Reqd by munged\pc\rep_weap_fly_vwing_ptorpedo.class.req
+Missing file com_weap_veh_fly_bombs_ord.class
+    Reqd by munged\pc\rep_weap_fly_vwing_ptorpedo_ord.class.req
+
+=== rep_hero_aalya.lvl ===
+Missing file com_jedi_default.class
+    Reqd by munged\pc\rep_hero_aalya.class.req
+Missing file greenlightsabre.texture
+    Reqd by munged\pc\rep_weap_lightsaber_aalya.class.req
+Missing file bluelightsabre.texture
+    Reqd by munged\pc\rep_weap_lightsaber_aalya.class.req
+Missing file human_sabre.animset
+    Reqd by munged\pc\rep_weap_lightsaber_aalya.class.req
+Missing file com_weap_inf_lightsaber.class
+    Reqd by munged\pc\rep_weap_lightsaber_aalya.class.req
+Missing file imp_inf_weap_lightsabre.texture
+    Reqd by munged\pc\rep_weap_inf_lightsabre.model.req
+            munged\pc\rep_weap_aalya_lightsabre.model.req
+Missing file com_weap_inf_sabre_throw.class
+    Reqd by munged\pc\rep_hero_aalya.class.req
+Missing file com_weap_inf_force_pull.class
+    Reqd by munged\pc\rep_hero_aalya.class.req
+Missing file rep_inf_aaylasecura.texture
+    Reqd by munged\pc\rep_inf_aaylasecura.model.req
+            munged\pc\rep_inf_aaylasecura_low1.model.req
+
+=== rep_hero_anakin.lvl ===
+Missing file com_jedi_default.class
+    Reqd by munged\pc\rep_hero_anakin.class.req
+Missing file bluelightsabre.texture
+    Reqd by munged\pc\rep_weap_lightsaber_anakin.class.req
+Missing file human_sabre.animset
+    Reqd by munged\pc\rep_weap_lightsaber_anakin.class.req
+Missing file com_weap_inf_lightsaber.class
+    Reqd by munged\pc\rep_weap_lightsaber_anakin.class.req
+Missing file imp_inf_weap_lightsabre.texture
+    Reqd by munged\pc\rep_weap_inf_lightsabre.model.req
+Missing file com_weap_inf_sabre_throw.class
+    Reqd by munged\pc\rep_hero_anakin.class.req
+Missing file com_weap_inf_force_choke.class
+    Reqd by munged\pc\rep_hero_anakin.class.req
+Missing file rep_inf_ep3anakin.texture
+    Reqd by munged\pc\rep_inf_ep3anakin.model.req
+            munged\pc\rep_inf_ep3anakin_low1.model.req
+Missing file noicon.texture
+    Reqd by munged\pc\rep_inf_ep3anakin_low1.model.req
+
+=== rep_hero_cloakedanakin.lvl ===
+Missing file com_jedi_default.class
+    Reqd by munged\pc\rep_hero_cloakedanakin.class.req
+Missing file rep_inf_ep3cloakedanakin_skirt.class
+    Reqd by munged\pc\rep_hero_cloakedanakin.class.req
+Missing file bluelightsabre.texture
+    Reqd by munged\pc\rep_weap_lightsaber_anakin.class.req
+Missing file human_sabre.animset
+    Reqd by munged\pc\rep_weap_lightsaber_anakin.class.req
+Missing file com_weap_inf_lightsaber.class
+    Reqd by munged\pc\rep_weap_lightsaber_anakin.class.req
+Missing file imp_inf_weap_lightsabre.texture
+    Reqd by munged\pc\rep_weap_inf_lightsabre.model.req
+Missing file com_weap_inf_sabre_throw.class
+    Reqd by munged\pc\rep_hero_cloakedanakin.class.req
+Missing file com_weap_inf_force_choke.class
+    Reqd by munged\pc\rep_hero_cloakedanakin.class.req
+Missing file rep_inf_ep3cloakedanakin.texture
+    Reqd by munged\pc\rep_inf_ep3cloakedanakin.model.req
+            munged\pc\rep_inf_ep3cloakedanakin_low1.model.req
+Missing file rep_inf_ep3anakin.texture
+    Reqd by munged\pc\rep_inf_ep3cloakedanakin.model.req
+
+=== rep_hero_kiyadimundi.lvl ===
+Missing file com_jedi_default.class
+    Reqd by munged\pc\rep_hero_kiyadimundi.class.req
+Missing file bluelightsabre.texture
+    Reqd by munged\pc\rep_weap_lightsaber_kiyadi.class.req
+Missing file human_sabre.animset
+    Reqd by munged\pc\rep_weap_lightsaber_kiyadi.class.req
+Missing file com_weap_inf_lightsaber.class
+    Reqd by munged\pc\rep_weap_lightsaber_kiyadi.class.req
+Missing file imp_inf_weap_lightsabre.texture
+    Reqd by munged\pc\rep_weap_inf_lightsabre.model.req
+Missing file com_weap_inf_sabre_throw.class
+    Reqd by munged\pc\rep_hero_kiyadimundi.class.req
+Missing file com_weap_inf_force_pull.class
+    Reqd by munged\pc\rep_hero_kiyadimundi.class.req
+Missing file rep_inf_kiadimundi.texture
+    Reqd by munged\pc\rep_inf_kiadimundi.model.req
+            munged\pc\rep_inf_kiadimundi_low1.model.req
+
+=== rep_hero_luke_jedi.lvl ===
+Missing file rep_hero_luke_jedi.class
+    Reqd by ..\..\..\sides\clo\req\rep_hero_luke_jedi.req
+
+=== rep_hero_macewindu.lvl ===
+Missing file com_jedi_default.class
+    Reqd by munged\pc\rep_hero_macewindu.class.req
+Missing file violetlightsaber.texture
+    Reqd by munged\pc\rep_weap_lightsaber.class.req
+Missing file human_sabre.animset
+    Reqd by munged\pc\rep_weap_lightsaber.class.req
+Missing file com_weap_inf_lightsaber.class
+    Reqd by munged\pc\rep_weap_lightsaber.class.req
+Missing file imp_inf_weap_lightsabre.texture
+    Reqd by munged\pc\rep_weap_inf_lightsabre.model.req
+Missing file com_weap_inf_sabre_throw.class
+    Reqd by munged\pc\rep_hero_macewindu.class.req
+Missing file com_weap_inf_force_push.class
+    Reqd by munged\pc\rep_hero_macewindu.class.req
+Missing file rep_inf_macewindu.texture
+    Reqd by munged\pc\rep_inf_macewindu.model.req
+            munged\pc\rep_inf_macewindu_low1.model.req
+Missing file noicon.texture
+    Reqd by munged\pc\rep_inf_macewindu_low1.model.req
+
+=== rep_hero_macewindu_obi.lvl ===
+Missing file com_jedi_default.class
+    Reqd by munged\pc\rep_hero_macewindu_obi.class.req
+Missing file violetlightsaber.texture
+    Reqd by munged\pc\rep_weap_lightsaber_obiwanv.class.req
+Missing file human_sabre.animset
+    Reqd by munged\pc\rep_weap_lightsaber_obiwanv.class.req
+Missing file com_weap_inf_lightsaber.class
+    Reqd by munged\pc\rep_weap_lightsaber_obiwanv.class.req
+Missing file imp_inf_weap_lightsabre.texture
+    Reqd by munged\pc\rep_weap_inf_lightsabre.model.req
+Missing file com_weap_inf_sabre_throw.class
+    Reqd by munged\pc\rep_hero_macewindu_obi.class.req
+Missing file com_weap_inf_force_push.class
+    Reqd by munged\pc\rep_hero_macewindu_obi.class.req
+Missing file rep_inf_macewindu.texture
+    Reqd by munged\pc\rep_inf_macewindu.model.req
+            munged\pc\rep_inf_macewindu_low1.model.req
+Missing file noicon.texture
+    Reqd by munged\pc\rep_inf_macewindu_low1.model.req
+
+=== rep_hero_obiwan.lvl ===
+Missing file com_jedi_default.class
+    Reqd by munged\pc\rep_hero_obiwan.class.req
+Missing file bluelightsabre.texture
+    Reqd by munged\pc\rep_weap_lightsaber_obiwan.class.req
+Missing file human_sabre.animset
+    Reqd by munged\pc\rep_weap_lightsaber_obiwan.class.req
+Missing file com_weap_inf_lightsaber.class
+    Reqd by munged\pc\rep_weap_lightsaber_obiwan.class.req
+Missing file imp_inf_weap_lightsabre.texture
+    Reqd by munged\pc\rep_weap_inf_lightsabre.model.req
+Missing file com_weap_inf_sabre_throw.class
+    Reqd by munged\pc\rep_hero_obiwan.class.req
+Missing file com_weap_inf_force_push.class
+    Reqd by munged\pc\rep_hero_obiwan.class.req
+Missing file rep_inf_ep3obiwan.texture
+    Reqd by munged\pc\rep_inf_ep3obiwan.model.req
+            munged\pc\rep_inf_ep3obiwan_low1.model.req
+Missing file noicon.texture
+    Reqd by munged\pc\rep_inf_ep3obiwan_low1.model.req
+
+=== rep_hero_obiwan_old.lvl ===
+Missing file com_jedi_default.class
+    Reqd by munged\pc\rep_hero_obiwan_old.class.req
+Missing file violetlightsaber.texture
+    Reqd by munged\pc\rep_weap_lightsaber.class.req
+Missing file human_sabre.animset
+    Reqd by munged\pc\rep_weap_lightsaber.class.req
+Missing file com_weap_inf_lightsaber.class
+    Reqd by munged\pc\rep_weap_lightsaber.class.req
+Missing file imp_inf_weap_lightsabre.texture
+    Reqd by munged\pc\rep_weap_inf_lightsabre.model.req
+Missing file com_weap_inf_force_pull.class
+    Reqd by munged\pc\rep_hero_obiwan_old.class.req
+Missing file rep_inf_macewindu.texture
+    Reqd by munged\pc\rep_inf_macewindu.model.req
+            munged\pc\rep_inf_macewindu_low1.model.req
+Missing file noicon.texture
+    Reqd by munged\pc\rep_inf_macewindu_low1.model.req
+
+=== rep_hero_yoda.lvl ===
+Missing file yodalz.zaabin
+    Reqd by munged\pc\rep_hero_yoda.class.req
+Missing file com_jedi_default.class
+    Reqd by munged\pc\rep_hero_yoda.class.req
+Missing file greenlightsabre.texture
+    Reqd by munged\pc\rep_weap_lightsaber_yoda.class.req
+Missing file human_sabre.animset
+    Reqd by munged\pc\rep_weap_lightsaber_yoda.class.req
+Missing file com_weap_inf_lightsaber.class
+    Reqd by munged\pc\rep_weap_lightsaber_yoda.class.req
+Missing file imp_inf_weap_lightsabre.texture
+    Reqd by munged\pc\rep_weap_inf_lightsabre.model.req
+Missing file com_weap_inf_force_pull.class
+    Reqd by munged\pc\rep_hero_yoda.class.req
+Missing file com_weap_inf_force_push.class
+    Reqd by munged\pc\rep_hero_yoda.class.req
+Missing file rep_inf_yoda.texture
+    Reqd by munged\pc\rep_inf_yoda.model.req
+            munged\pc\rep_inf_yoda_low1.model.req
+
+=== rep_hover_barcspeeder.lvl ===
+Missing file speederbike_icon.texture
+    Reqd by munged\pc\rep_hover_barcspeeder.class.req
+Missing file hud_speederbike_icon.texture
+    Reqd by munged\pc\rep_hover_barcspeeder.class.req
+Missing file dustwake.config
+    Reqd by munged\pc\rep_hover_barcspeeder.class.req
+Missing file dirtspray.config
+    Reqd by munged\pc\rep_hover_barcspeeder.class.req
+Missing file com_weap_veh_laser.class
+    Reqd by munged\pc\rep_weap_hover_speederbike_cannon.class.req
+Missing file com_weap_veh_laser_ord.class
+    Reqd by munged\pc\rep_weap_hover_speederbike_cannon_ord.class.req
+Missing file barc_speeder.texture
+    Reqd by munged\pc\rep_hover_barcspeeder.model.req
+            munged\pc\rep_hover_barcspeeder_chunk1.model.req
+            munged\pc\rep_hover_barcspeeder_chunk2.model.req
+            munged\pc\rep_hover_barcspeeder_chunk3.model.req
+            munged\pc\rep_hover_barcspeeder_chunk4.model.req
+            munged\pc\rep_hover_barcspeeder_chunk5.model.req
+Missing file barc_speeder_bump.texture
+    Reqd by munged\pc\rep_hover_barcspeeder.model.req
+
+=== rep_hover_fightertank.lvl ===
+Missing file fightertank_icon.texture
+    Reqd by munged\pc\rep_hover_fightertank.class.req
+Missing file hud_rep_fightertank_icon.texture
+    Reqd by munged\pc\rep_hover_fightertank.class.req
+Missing file rep_hover_fightertank.texture
+    Reqd by munged\pc\rep_hover_fightertank.model.req
+            munged\pc\rep_hover_fightertank_chunk1.model.req
+            munged\pc\rep_hover_fightertank_chunk2.model.req
+            munged\pc\rep_hover_fightertank_chunk3.model.req
+Missing file rep_hover_fightertank_bump.texture
+    Reqd by munged\pc\rep_hover_fightertank.model.req
+Missing file rep_hover_fightertank_lowrez.texture
+    Reqd by munged\pc\rep_hover_fightertank.model.req
+Missing file dirtspray.config
+    Reqd by munged\pc\rep_hover_fightertank.class.req
+Missing file com_weap_veh_laser.class
+    Reqd by munged\pc\rep_weap_hover_fightertank_cannon.class.req
+Missing file com_weap_veh_laser_ord.class
+    Reqd by munged\pc\rep_weap_hover_fightertank_cannon_ord.class.req
+Missing file com_weap_veh_missile.class
+    Reqd by munged\pc\rep_weap_hover_fightertank_missile.class.req
+Missing file com_weap_veh_missile_ord.class
+    Reqd by munged\pc\rep_weap_hover_fightertank_missile_ord.class.req
+Missing file com_weap_veh_beam.class
+    Reqd by munged\pc\rep_weap_hover_fightertank_laser.class.req
+Missing file com_weap_veh_beam_ord.class
+    Reqd by munged\pc\rep_weap_hover_fightertank_laser_ord.class.req
+
+=== rep_hover_speederbike.lvl ===
+Missing file speederbike_icon.texture
+    Reqd by munged\pc\rep_hover_speederbike.class.req
+Missing file hud_speederbike_icon.texture
+    Reqd by munged\pc\rep_hover_speederbike.class.req
+Missing file dustwake.config
+    Reqd by munged\pc\rep_hover_speederbike.class.req
+Missing file dirtspray.config
+    Reqd by munged\pc\rep_hover_speederbike.class.req
+Missing file com_weap_veh_laser.class
+    Reqd by munged\pc\rep_weap_hover_speederbike_cannon.class.req
+Missing file com_weap_veh_laser_ord.class
+    Reqd by munged\pc\rep_weap_hover_speederbike_cannon_ord.class.req
+Missing file barc_speeder.texture
+    Reqd by munged\pc\rep_hover_barcspeeder.model.req
+            munged\pc\rep_hover_barcspeeder_chunk1.model.req
+            munged\pc\rep_hover_barcspeeder_chunk2.model.req
+            munged\pc\rep_hover_barcspeeder_chunk3.model.req
+            munged\pc\rep_hover_barcspeeder_chunk4.model.req
+            munged\pc\rep_hover_barcspeeder_chunk5.model.req
+Missing file barc_speeder_bump.texture
+    Reqd by munged\pc\rep_hover_barcspeeder.model.req
+
+=== rep_hover_swampspeeder.lvl ===
+Missing file hud_combat_speeder_icon.texture
+    Reqd by munged\pc\rep_hover_swampspeeder.class.req
+Missing file hailfire_wake.config
+    Reqd by munged\pc\rep_hover_swampspeeder.class.req
+Missing file dirtspray.config
+    Reqd by munged\pc\rep_hover_swampspeeder.class.req
+Missing file rep_hover_swampspeeder_lowrez.texture
+    Reqd by munged\pc\rep_hover_swampspeeder.model.req
+Missing file rep_hover_swampspeeder.texture
+    Reqd by munged\pc\rep_hover_swampspeeder.model.req
+Missing file rep_hover_swampspeeder_bump.texture
+    Reqd by munged\pc\rep_hover_swampspeeder.model.req
+Missing file rep_hover_fightertank.texture
+    Reqd by munged\pc\rep_hover_fightertank_chunk1.model.req
+            munged\pc\rep_hover_fightertank_chunk2.model.req
+            munged\pc\rep_hover_fightertank_chunk3.model.req
+Missing file com_weap_veh_chaingun.class
+    Reqd by munged\pc\rep_weap_walk_atte_rear_gun.class.req
+Missing file com_weap_veh_chaingun_ord.class
+    Reqd by munged\pc\rep_weap_walk_atte_rear_gun_ord.class.req
+
+=== rep_inf_ep2_engineer.lvl ===
+Missing file rep_pilot_icon.texture
+    Reqd by munged\pc\rep_inf_ep2_engineer.class.req
+Missing file com_weap_inf_shotgun.class
+    Reqd by munged\pc\rep_weap_inf_shotgun.class.req
+Missing file com_weap_inf_shotgun_ord.class
+    Reqd by munged\pc\rep_weap_inf_shotgun_ord.class.req
+Missing file com_weap_inf_equip_med.class
+    Reqd by munged\pc\rep_weap_inf_shotgun.class.req
+            munged\pc\rep_weap_inf_fusioncutter.class.req
+            munged\pc\rep_weap_inf_powerup_dispenser.class.req
+            munged\pc\rep_weap_award_shotgun.class.req
+Missing file rep_1st_weap_inf_rifle.texture
+    Reqd by munged\pc\rep_weap_inf_rifle.model.req
+            munged\pc\rep_1st_weap_inf_rifle.model.req
+Missing file rep_cockpit_fx.texture
+    Reqd by munged\pc\rep_1st_weap_inf_rifle.model.req
+            munged\pc\rep_weap_inf_fusioncutter.model.req
+            munged\pc\rep_1st_weap_inf_fusioncutter.model.req
+Missing file rep_1st_weap_inf_rifle_bump.texture
+    Reqd by munged\pc\rep_1st_weap_inf_rifle.model.req
+Missing file com_weap_inf_fusioncutter.class
+    Reqd by munged\pc\rep_weap_inf_fusioncutter.class.req
+Missing file rep_1st_weap_inf_fusioncutter.texture
+    Reqd by munged\pc\rep_weap_inf_fusioncutter.model.req
+            munged\pc\rep_1st_weap_inf_fusioncutter.model.req
+Missing file com_weap_inf_detpack.class
+    Reqd by munged\pc\rep_weap_inf_detpack.class.req
+Missing file com_weap_inf_detpack_ord.class
+    Reqd by munged\pc\rep_weap_inf_detpack_ord.class.req
+Missing file com_weap_inf_detpack_exp.class
+    Reqd by munged\pc\rep_weap_inf_detpack_exp.class.req
+Missing file com_weap_inf_detpack_destroyed_exp.class
+    Reqd by munged\pc\rep_weap_inf_detpack_destroyed_exp.class.req
+Missing file hud_powerup_icon.texture
+    Reqd by munged\pc\rep_weap_inf_powerup_dispenser.class.req
+Missing file hud_weap_ammo.texture
+    Reqd by munged\pc\rep_weap_inf_powerup_dispenser.class.req
+Missing file reticule_00.texture
+    Reqd by munged\pc\rep_weap_inf_powerup_dispenser.class.req
+Missing file com_weap_award_shotgun.class
+    Reqd by munged\pc\rep_weap_award_shotgun.class.req
+Missing file com_weap_award_shotgun_ord.class
+    Reqd by munged\pc\rep_weap_award_shotgun_ord.class.req
+Missing file rep_inf_pilot.texture
+    Reqd by munged\pc\rep_inf_pilot.model.req
+            munged\pc\rep_inf_pilot_low1.model.req
+
+=== rep_inf_ep2_jettrooper.lvl ===
+Missing file rep_htrooper_icon.texture
+    Reqd by munged\pc\rep_inf_ep2_jettrooper.class.req
+Missing file com_weap_inf_rocket_launcher.class
+    Reqd by munged\pc\rep_weap_inf_emp_launcher.class.req
+Missing file com_weap_inf_rocket_launcher_ord.class
+    Reqd by munged\pc\rep_weap_inf_emp_launcher_ord.class.req
+Missing file com_weap_inf_rocket_launcher_exp.class
+    Reqd by munged\pc\rep_weap_inf_rocket_launcher_exp.class.req
+Missing file com_weap_inf_equip_lg.class
+    Reqd by munged\pc\rep_weap_inf_emp_launcher.class.req
+Missing file com_weap_inf_commando_pistol.class
+    Reqd by munged\pc\rep_weap_inf_commando_pistol.class.req
+Missing file com_weap_inf_commando_pistol_ord.class
+    Reqd by munged\pc\rep_weap_inf_commando_pistol_ord.class.req
+Missing file com_weap_inf_equip_sm.class
+    Reqd by munged\pc\rep_weap_inf_commando_pistol.class.req
+            munged\pc\rep_weap_inf_thermaldetonator.class.req
+            munged\pc\rep_weap_award_pistol.class.req
+Missing file rep_1st_weap_inf_pistol.texture
+    Reqd by munged\pc\rep_weap_inf_pistol.model.req
+            munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file rep_cockpit_fx.texture
+    Reqd by munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file rep_1st_weap_inf_pistol_bump.texture
+    Reqd by munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file com_weap_inf_thermaldetonator.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator.class.req
+Missing file com_weap_inf_thermaldetonator_ord.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator_ord.class.req
+Missing file com_weap_inf_thermaldetonator_exp.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator_exp.class.req
+Missing file com_weap_award_pistol.class
+    Reqd by munged\pc\rep_weap_award_pistol.class.req
+Missing file com_weap_award_pistol_ord.class
+    Reqd by munged\pc\rep_weap_award_pistol_ord.class.req
+Missing file jetpack_prop.texture
+    Reqd by munged\pc\rep_inf_jettrooper.model.req
+            munged\pc\rep_inf_jettrooper_low1.model.req
+Missing file rep_inf_htrooper.texture
+    Reqd by munged\pc\rep_inf_jettrooper.model.req
+Missing file rep_inf_trooper.texture
+    Reqd by munged\pc\rep_inf_jettrooper_low1.model.req
+
+=== rep_inf_ep2_jettrooper_rifleman.lvl ===
+Missing file rep_htrooper_icon.texture
+    Reqd by munged\pc\rep_inf_ep2_jettrooper_rifleman.class.req
+Missing file com_weap_inf_rocket_launcher.class
+    Reqd by munged\pc\rep_weap_inf_emp_launcher.class.req
+Missing file com_weap_inf_rocket_launcher_ord.class
+    Reqd by munged\pc\rep_weap_inf_emp_launcher_ord.class.req
+Missing file com_weap_inf_rocket_launcher_exp.class
+    Reqd by munged\pc\rep_weap_inf_rocket_launcher_exp.class.req
+Missing file com_weap_inf_equip_lg.class
+    Reqd by munged\pc\rep_weap_inf_emp_launcher.class.req
+Missing file com_weap_inf_commando_pistol.class
+    Reqd by munged\pc\rep_weap_inf_commando_pistol.class.req
+Missing file com_weap_inf_commando_pistol_ord.class
+    Reqd by munged\pc\rep_weap_inf_commando_pistol_ord.class.req
+Missing file com_weap_inf_equip_sm.class
+    Reqd by munged\pc\rep_weap_inf_commando_pistol.class.req
+            munged\pc\rep_weap_inf_thermaldetonator.class.req
+            munged\pc\rep_weap_award_pistol.class.req
+            munged\pc\rep_weap_inf_pistol.class.req
+Missing file rep_1st_weap_inf_pistol.texture
+    Reqd by munged\pc\rep_weap_inf_pistol.model.req
+            munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file rep_cockpit_fx.texture
+    Reqd by munged\pc\rep_1st_weap_inf_pistol.model.req
+            munged\pc\rep_1st_weap_inf_rifle.model.req
+            munged\pc\rep_weap_inf_fusioncutter.model.req
+            munged\pc\rep_1st_weap_inf_fusioncutter.model.req
+Missing file rep_1st_weap_inf_pistol_bump.texture
+    Reqd by munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file com_weap_inf_thermaldetonator.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator.class.req
+Missing file com_weap_inf_thermaldetonator_ord.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator_ord.class.req
+Missing file com_weap_inf_thermaldetonator_exp.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator_exp.class.req
+Missing file com_weap_award_pistol.class
+    Reqd by munged\pc\rep_weap_award_pistol.class.req
+Missing file com_weap_award_pistol_ord.class
+    Reqd by munged\pc\rep_weap_award_pistol_ord.class.req
+Missing file com_weap_inf_rifle.class
+    Reqd by munged\pc\rep_weap_inf_rifle.class.req
+Missing file com_weap_inf_rifle_ord.class
+    Reqd by munged\pc\rep_weap_inf_rifle_ord.class.req
+Missing file com_weap_inf_equip_med.class
+    Reqd by munged\pc\rep_weap_inf_rifle.class.req
+            munged\pc\rep_weap_inf_fusioncutter.class.req
+Missing file rep_1st_weap_inf_rifle.texture
+    Reqd by munged\pc\rep_weap_inf_rifle.model.req
+            munged\pc\rep_1st_weap_inf_rifle.model.req
+Missing file rep_1st_weap_inf_rifle_bump.texture
+    Reqd by munged\pc\rep_1st_weap_inf_rifle.model.req
+Missing file com_weap_inf_pistol.class
+    Reqd by munged\pc\rep_weap_inf_pistol.class.req
+Missing file com_weap_inf_pistol_ord.class
+    Reqd by munged\pc\rep_weap_inf_pistol_ord.class.req
+Missing file com_weap_inf_fusioncutter.class
+    Reqd by munged\pc\rep_weap_inf_fusioncutter.class.req
+Missing file rep_1st_weap_inf_fusioncutter.texture
+    Reqd by munged\pc\rep_weap_inf_fusioncutter.model.req
+            munged\pc\rep_1st_weap_inf_fusioncutter.model.req
+Missing file jetpack_prop.texture
+    Reqd by munged\pc\rep_inf_jettrooper.model.req
+            munged\pc\rep_inf_jettrooper_low1.model.req
+Missing file rep_inf_htrooper.texture
+    Reqd by munged\pc\rep_inf_jettrooper.model.req
+Missing file rep_inf_trooper.texture
+    Reqd by munged\pc\rep_inf_jettrooper_low1.model.req
+
+=== rep_inf_ep2_jettrooper_sniper.lvl ===
+Missing file rep_htrooper_icon.texture
+    Reqd by munged\pc\rep_inf_ep2_jettrooper_sniper.class.req
+Missing file com_weap_inf_rocket_launcher.class
+    Reqd by munged\pc\rep_weap_inf_emp_launcher.class.req
+Missing file com_weap_inf_rocket_launcher_ord.class
+    Reqd by munged\pc\rep_weap_inf_emp_launcher_ord.class.req
+Missing file com_weap_inf_rocket_launcher_exp.class
+    Reqd by munged\pc\rep_weap_inf_rocket_launcher_exp.class.req
+Missing file com_weap_inf_equip_lg.class
+    Reqd by munged\pc\rep_weap_inf_emp_launcher.class.req
+Missing file com_weap_inf_commando_pistol.class
+    Reqd by munged\pc\rep_weap_inf_commando_pistol.class.req
+Missing file com_weap_inf_commando_pistol_ord.class
+    Reqd by munged\pc\rep_weap_inf_commando_pistol_ord.class.req
+Missing file com_weap_inf_equip_sm.class
+    Reqd by munged\pc\rep_weap_inf_commando_pistol.class.req
+            munged\pc\rep_weap_inf_thermaldetonator.class.req
+            munged\pc\rep_weap_award_pistol.class.req
+            munged\pc\rep_weap_inf_pistol.class.req
+Missing file rep_1st_weap_inf_pistol.texture
+    Reqd by munged\pc\rep_weap_inf_pistol.model.req
+            munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file rep_cockpit_fx.texture
+    Reqd by munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file rep_1st_weap_inf_pistol_bump.texture
+    Reqd by munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file com_weap_inf_thermaldetonator.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator.class.req
+Missing file com_weap_inf_thermaldetonator_ord.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator_ord.class.req
+Missing file com_weap_inf_thermaldetonator_exp.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator_exp.class.req
+Missing file com_weap_award_pistol.class
+    Reqd by munged\pc\rep_weap_award_pistol.class.req
+Missing file com_weap_award_pistol_ord.class
+    Reqd by munged\pc\rep_weap_award_pistol_ord.class.req
+Missing file com_weap_inf_sniper_rifle.class
+    Reqd by munged\pc\rep_weap_inf_sniper_rifle.class.req
+Missing file com_weap_inf_sniper_rifle_ord.class
+    Reqd by munged\pc\rep_weap_inf_sniper_rifle_ord.class.req
+Missing file com_weap_inf_equip_med.class
+    Reqd by munged\pc\rep_weap_inf_sniper_rifle.class.req
+Missing file rep_1st_weap_inf_sniperrifle.texture
+    Reqd by munged\pc\rep_weap_inf_sniperrifle.model.req
+            munged\pc\rep_1st_weap_inf_sniperrifle.model.req
+Missing file rep_1st_weap_inf_sniperrifle_bump.texture
+    Reqd by munged\pc\rep_1st_weap_inf_sniperrifle.model.req
+Missing file com_weap_inf_pistol.class
+    Reqd by munged\pc\rep_weap_inf_pistol.class.req
+Missing file com_weap_inf_pistol_ord.class
+    Reqd by munged\pc\rep_weap_inf_pistol_ord.class.req
+Missing file jetpack_prop.texture
+    Reqd by munged\pc\rep_inf_jettrooper.model.req
+            munged\pc\rep_inf_jettrooper_low1.model.req
+Missing file rep_inf_htrooper.texture
+    Reqd by munged\pc\rep_inf_jettrooper.model.req
+Missing file rep_inf_trooper.texture
+    Reqd by munged\pc\rep_inf_jettrooper_low1.model.req
+
+=== rep_inf_ep2_jettrooper_training.lvl ===
+Missing file rep_htrooper_icon.texture
+    Reqd by munged\pc\rep_inf_ep2_jettrooper_training.class.req
+Missing file com_weap_inf_rocket_launcher.class
+    Reqd by munged\pc\rep_weap_inf_emp_launcher.class.req
+Missing file com_weap_inf_rocket_launcher_ord.class
+    Reqd by munged\pc\rep_weap_inf_emp_launcher_ord.class.req
+Missing file com_weap_inf_rocket_launcher_exp.class
+    Reqd by munged\pc\rep_weap_inf_rocket_launcher_exp.class.req
+Missing file com_weap_inf_equip_lg.class
+    Reqd by munged\pc\rep_weap_inf_emp_launcher.class.req
+Missing file com_weap_inf_commando_pistol.class
+    Reqd by munged\pc\rep_weap_inf_commando_pistol.class.req
+Missing file com_weap_inf_commando_pistol_ord.class
+    Reqd by munged\pc\rep_weap_inf_commando_pistol_ord.class.req
+Missing file com_weap_inf_equip_sm.class
+    Reqd by munged\pc\rep_weap_inf_commando_pistol.class.req
+            munged\pc\rep_weap_inf_thermaldetonator.class.req
+            munged\pc\rep_weap_award_pistol.class.req
+Missing file rep_1st_weap_inf_pistol.texture
+    Reqd by munged\pc\rep_weap_inf_pistol.model.req
+            munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file rep_cockpit_fx.texture
+    Reqd by munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file rep_1st_weap_inf_pistol_bump.texture
+    Reqd by munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file com_weap_inf_thermaldetonator.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator.class.req
+Missing file com_weap_inf_thermaldetonator_ord.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator_ord.class.req
+Missing file com_weap_inf_thermaldetonator_exp.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator_exp.class.req
+Missing file com_weap_award_pistol.class
+    Reqd by munged\pc\rep_weap_award_pistol.class.req
+Missing file com_weap_award_pistol_ord.class
+    Reqd by munged\pc\rep_weap_award_pistol_ord.class.req
+Missing file jetpack_prop.texture
+    Reqd by munged\pc\rep_inf_jettrooper.model.req
+            munged\pc\rep_inf_jettrooper_low1.model.req
+Missing file rep_inf_htrooper.texture
+    Reqd by munged\pc\rep_inf_jettrooper.model.req
+Missing file rep_inf_trooper.texture
+    Reqd by munged\pc\rep_inf_jettrooper_low1.model.req
+
+=== rep_inf_ep2_marine.lvl ===
+Missing file rep_trooper_icon.texture
+    Reqd by munged\pc\rep_inf_ep2_marine.class.req
+Missing file com_weap_inf_rifle.class
+    Reqd by munged\pc\rep_weap_inf_rifle.class.req
+Missing file com_weap_inf_rifle_ord.class
+    Reqd by munged\pc\rep_weap_inf_rifle_ord.class.req
+Missing file com_weap_inf_equip_med.class
+    Reqd by munged\pc\rep_weap_inf_rifle.class.req
+            munged\pc\rep_weap_award_rifle.class.req
+Missing file rep_1st_weap_inf_rifle.texture
+    Reqd by munged\pc\rep_weap_inf_rifle.model.req
+            munged\pc\rep_1st_weap_inf_rifle.model.req
+Missing file rep_cockpit_fx.texture
+    Reqd by munged\pc\rep_1st_weap_inf_rifle.model.req
+Missing file rep_1st_weap_inf_rifle_bump.texture
+    Reqd by munged\pc\rep_1st_weap_inf_rifle.model.req
+Missing file com_weap_inf_rocket_launcher.class
+    Reqd by munged\pc\rep_weap_inf_rocket_launcher.class.req
+Missing file com_weap_inf_rocket_launcher_ord.class
+    Reqd by munged\pc\rep_weap_inf_rocket_launcher_ord.class.req
+Missing file com_weap_inf_rocket_launcher_exp.class
+    Reqd by munged\pc\rep_weap_inf_rocket_launcher_exp.class.req
+Missing file com_weap_inf_equip_lg.class
+    Reqd by munged\pc\rep_weap_inf_rocket_launcher.class.req
+Missing file rep_1st_weap_inf_launcher.texture
+    Reqd by munged\pc\rep_weap_inf_launcher.model.req
+            munged\pc\rep_1st_weap_inf_launcher.model.req
+Missing file com_weap_inf_thermaldetonator.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator.class.req
+Missing file com_weap_inf_thermaldetonator_ord.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator_ord.class.req
+Missing file com_weap_inf_thermaldetonator_exp.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator_exp.class.req
+Missing file com_weap_inf_equip_sm.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator.class.req
+Missing file com_weap_award_rifle.class
+    Reqd by munged\pc\rep_weap_award_rifle.class.req
+Missing file com_weap_award_rifle_ord.class
+    Reqd by munged\pc\rep_weap_award_rifle_ord.class.req
+Missing file rep_inf_trooper.texture
+    Reqd by munged\pc\rep_inf_trooper.model.req
+            munged\pc\rep_inf_trooper_low1.model.req
+
+=== rep_inf_ep2_officer.lvl ===
+Missing file rep_inf_officer.class
+    Reqd by ..\..\..\sides\clo\req\rep_inf_ep2_officer.req
+
+=== rep_inf_ep2_officer_training.lvl ===
+Missing file rep_inf_officer_training.class
+    Reqd by ..\..\..\sides\clo\req\rep_inf_ep2_officer_training.req
+
+=== rep_inf_ep2_pilot.lvl ===
+Missing file rep_pilot_icon.texture
+    Reqd by munged\pc\rep_inf_ep2_pilot.class.req
+Missing file com_weap_inf_commando_pistol.class
+    Reqd by munged\pc\rep_weap_inf_commando_pistol.class.req
+Missing file com_weap_inf_commando_pistol_ord.class
+    Reqd by munged\pc\rep_weap_inf_commando_pistol_ord.class.req
+Missing file com_weap_inf_equip_sm.class
+    Reqd by munged\pc\rep_weap_inf_commando_pistol.class.req
+            munged\pc\rep_weap_award_pistol.class.req
+Missing file rep_1st_weap_inf_pistol.texture
+    Reqd by munged\pc\rep_weap_inf_pistol.model.req
+            munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file rep_cockpit_fx.texture
+    Reqd by munged\pc\rep_1st_weap_inf_pistol.model.req
+            munged\pc\rep_weap_inf_fusioncutter.model.req
+            munged\pc\rep_1st_weap_inf_fusioncutter.model.req
+Missing file rep_1st_weap_inf_pistol_bump.texture
+    Reqd by munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file com_weap_inf_fusioncutter.class
+    Reqd by munged\pc\rep_weap_inf_fusioncutter.class.req
+Missing file com_weap_inf_equip_med.class
+    Reqd by munged\pc\rep_weap_inf_fusioncutter.class.req
+Missing file rep_1st_weap_inf_fusioncutter.texture
+    Reqd by munged\pc\rep_weap_inf_fusioncutter.model.req
+            munged\pc\rep_1st_weap_inf_fusioncutter.model.req
+Missing file com_weap_inf_timebomb.class
+    Reqd by munged\pc\rep_weap_inf_timebomb.class.req
+Missing file com_weap_inf_timebomb_ord.class
+    Reqd by munged\pc\rep_weap_inf_timebomb_ord.class.req
+Missing file com_weap_inf_timebomb_exp.class
+    Reqd by munged\pc\rep_weap_inf_timebomb_exp.class.req
+Missing file com_weap_inf_timebomb_destroyed_exp.class
+    Reqd by munged\pc\rep_weap_inf_timebomb_destroyed_exp.class.req
+Missing file com_weap_award_pistol.class
+    Reqd by munged\pc\rep_weap_award_pistol.class.req
+Missing file com_weap_award_pistol_ord.class
+    Reqd by munged\pc\rep_weap_award_pistol_ord.class.req
+Missing file rep_inf_pilot.texture
+    Reqd by munged\pc\rep_inf_pilot.model.req
+            munged\pc\rep_inf_pilot_low1.model.req
+
+=== rep_inf_ep2_rifleman.lvl ===
+Missing file rep_trooper_icon.texture
+    Reqd by munged\pc\rep_inf_ep2_rifleman.class.req
+Missing file com_weap_inf_rifle.class
+    Reqd by munged\pc\rep_weap_inf_rifle.class.req
+Missing file com_weap_inf_rifle_ord.class
+    Reqd by munged\pc\rep_weap_inf_rifle_ord.class.req
+Missing file com_weap_inf_equip_med.class
+    Reqd by munged\pc\rep_weap_inf_rifle.class.req
+            munged\pc\rep_weap_award_rifle.class.req
+Missing file rep_1st_weap_inf_rifle.texture
+    Reqd by munged\pc\rep_weap_inf_rifle.model.req
+            munged\pc\rep_1st_weap_inf_rifle.model.req
+Missing file rep_cockpit_fx.texture
+    Reqd by munged\pc\rep_1st_weap_inf_rifle.model.req
+            munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file rep_1st_weap_inf_rifle_bump.texture
+    Reqd by munged\pc\rep_1st_weap_inf_rifle.model.req
+Missing file com_weap_inf_pistol.class
+    Reqd by munged\pc\rep_weap_inf_pistol.class.req
+Missing file com_weap_inf_pistol_ord.class
+    Reqd by munged\pc\rep_weap_inf_pistol_ord.class.req
+Missing file com_weap_inf_equip_sm.class
+    Reqd by munged\pc\rep_weap_inf_pistol.class.req
+            munged\pc\rep_weap_inf_thermaldetonator.class.req
+            munged\pc\rep_weap_award_pistol.class.req
+Missing file rep_1st_weap_inf_pistol.texture
+    Reqd by munged\pc\rep_weap_inf_pistol.model.req
+            munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file rep_1st_weap_inf_pistol_bump.texture
+    Reqd by munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file com_weap_inf_thermaldetonator.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator.class.req
+Missing file com_weap_inf_thermaldetonator_ord.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator_ord.class.req
+Missing file com_weap_inf_thermaldetonator_exp.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator_exp.class.req
+Missing file com_weap_award_rifle.class
+    Reqd by munged\pc\rep_weap_award_rifle.class.req
+Missing file com_weap_award_rifle_ord.class
+    Reqd by munged\pc\rep_weap_award_rifle_ord.class.req
+Missing file com_weap_award_pistol.class
+    Reqd by munged\pc\rep_weap_award_pistol.class.req
+Missing file com_weap_award_pistol_ord.class
+    Reqd by munged\pc\rep_weap_award_pistol_ord.class.req
+Missing file rep_inf_trooper.texture
+    Reqd by munged\pc\rep_inf_trooper.model.req
+            munged\pc\rep_inf_trooper_low1.model.req
+
+=== rep_inf_ep2_rocketeer.lvl ===
+Missing file rep_gunner_icon.texture
+    Reqd by munged\pc\rep_inf_ep2_rocketeer.class.req
+Missing file rep_inf_arc_blue.texture
+    Reqd by munged\pc\rep_inf_ep2_rocketeer.class.req
+            munged\pc\rep_inf_arctrooper.model.req
+Missing file rep_inf_arc_pack_blue.texture
+    Reqd by munged\pc\rep_inf_ep2_rocketeer.class.req
+            munged\pc\rep_inf_arctrooper.model.req
+            munged\pc\rep_inf_arctrooper_low1.model.req
+Missing file com_weap_inf_rocket_launcher.class
+    Reqd by munged\pc\rep_weap_inf_rocket_launcher.class.req
+Missing file com_weap_inf_rocket_launcher_ord.class
+    Reqd by munged\pc\rep_weap_inf_rocket_launcher_ord.class.req
+Missing file com_weap_inf_rocket_launcher_exp.class
+    Reqd by munged\pc\rep_weap_inf_rocket_launcher_exp.class.req
+Missing file com_weap_inf_equip_lg.class
+    Reqd by munged\pc\rep_weap_inf_rocket_launcher.class.req
+            munged\pc\rep_weap_award_rocket_launcher.class.req
+Missing file rep_1st_weap_inf_launcher.texture
+    Reqd by munged\pc\rep_weap_inf_launcher.model.req
+            munged\pc\rep_1st_weap_inf_launcher.model.req
+Missing file com_weap_inf_pistol.class
+    Reqd by munged\pc\rep_weap_inf_pistol.class.req
+Missing file com_weap_inf_pistol_ord.class
+    Reqd by munged\pc\rep_weap_inf_pistol_ord.class.req
+Missing file com_weap_inf_equip_sm.class
+    Reqd by munged\pc\rep_weap_inf_pistol.class.req
+            munged\pc\rep_weap_inf_thermaldetonator.class.req
+            munged\pc\rep_weap_award_pistol.class.req
+Missing file rep_1st_weap_inf_pistol.texture
+    Reqd by munged\pc\rep_weap_inf_pistol.model.req
+            munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file rep_cockpit_fx.texture
+    Reqd by munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file rep_1st_weap_inf_pistol_bump.texture
+    Reqd by munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file com_weap_inf_thermaldetonator.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator.class.req
+Missing file com_weap_inf_thermaldetonator_ord.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator_ord.class.req
+Missing file com_weap_inf_thermaldetonator_exp.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator_exp.class.req
+Missing file com_weap_inf_mine_dispenser.class
+    Reqd by munged\pc\rep_weap_inf_mine_dispenser.class.req
+Missing file com_weap_inf_landmine.class
+    Reqd by munged\pc\rep_weap_inf_mine_dispenser.class.req
+Missing file com_weap_inf_equip_med.class
+    Reqd by munged\pc\rep_weap_inf_mine_dispenser.class.req
+Missing file com_weap_award_pistol.class
+    Reqd by munged\pc\rep_weap_award_pistol.class.req
+Missing file com_weap_award_pistol_ord.class
+    Reqd by munged\pc\rep_weap_award_pistol_ord.class.req
+Missing file bazooka.zafbin
+    Reqd by munged\pc\rep_weap_award_rocket_launcher.class.req
+Missing file bazooka.zaabin
+    Reqd by munged\pc\rep_weap_award_rocket_launcher.class.req
+Missing file com_weap_award_rocket_launcher.class
+    Reqd by munged\pc\rep_weap_award_rocket_launcher.class.req
+Missing file com_weap_award_rocket_launcher_ord.class
+    Reqd by munged\pc\rep_weap_award_rocket_launcher.class.req
+Missing file rep_inf_trooper.texture
+    Reqd by munged\pc\rep_inf_arctrooper_low1.model.req
+
+=== rep_inf_ep2_rocketeer_chaingun.lvl ===
+Missing file rep_gunner_icon.texture
+    Reqd by munged\pc\rep_inf_ep2_rocketeer_chaingun.class.req
+Missing file rep_inf_arc_blue.texture
+    Reqd by munged\pc\rep_inf_ep2_rocketeer_chaingun.class.req
+            munged\pc\rep_inf_arctrooper.model.req
+Missing file rep_inf_arc_pack_blue.texture
+    Reqd by munged\pc\rep_inf_ep2_rocketeer_chaingun.class.req
+            munged\pc\rep_inf_arctrooper.model.req
+            munged\pc\rep_inf_arctrooper_low1.model.req
+Missing file com_weap_inf_rocket_launcher.class
+    Reqd by munged\pc\rep_weap_inf_rocket_launcher.class.req
+Missing file com_weap_inf_rocket_launcher_ord.class
+    Reqd by munged\pc\rep_weap_inf_rocket_launcher_ord.class.req
+Missing file com_weap_inf_rocket_launcher_exp.class
+    Reqd by munged\pc\rep_weap_inf_rocket_launcher_exp.class.req
+Missing file com_weap_inf_equip_lg.class
+    Reqd by munged\pc\rep_weap_inf_rocket_launcher.class.req
+            munged\pc\rep_weap_award_rocket_launcher.class.req
+            munged\pc\rep_weap_inf_chaingun.class.req
+Missing file rep_1st_weap_inf_launcher.texture
+    Reqd by munged\pc\rep_weap_inf_launcher.model.req
+            munged\pc\rep_1st_weap_inf_launcher.model.req
+Missing file com_weap_inf_pistol.class
+    Reqd by munged\pc\rep_weap_inf_pistol.class.req
+Missing file com_weap_inf_pistol_ord.class
+    Reqd by munged\pc\rep_weap_inf_pistol_ord.class.req
+Missing file com_weap_inf_equip_sm.class
+    Reqd by munged\pc\rep_weap_inf_pistol.class.req
+            munged\pc\rep_weap_inf_thermaldetonator.class.req
+            munged\pc\rep_weap_award_pistol.class.req
+Missing file rep_1st_weap_inf_pistol.texture
+    Reqd by munged\pc\rep_weap_inf_pistol.model.req
+            munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file rep_cockpit_fx.texture
+    Reqd by munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file rep_1st_weap_inf_pistol_bump.texture
+    Reqd by munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file com_weap_inf_thermaldetonator.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator.class.req
+Missing file com_weap_inf_thermaldetonator_ord.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator_ord.class.req
+Missing file com_weap_inf_thermaldetonator_exp.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator_exp.class.req
+Missing file com_weap_inf_mine_dispenser.class
+    Reqd by munged\pc\rep_weap_inf_mine_dispenser.class.req
+Missing file com_weap_inf_landmine.class
+    Reqd by munged\pc\rep_weap_inf_mine_dispenser.class.req
+Missing file com_weap_inf_equip_med.class
+    Reqd by munged\pc\rep_weap_inf_mine_dispenser.class.req
+Missing file com_weap_award_pistol.class
+    Reqd by munged\pc\rep_weap_award_pistol.class.req
+Missing file com_weap_award_pistol_ord.class
+    Reqd by munged\pc\rep_weap_award_pistol_ord.class.req
+Missing file bazooka.zafbin
+    Reqd by munged\pc\rep_weap_award_rocket_launcher.class.req
+Missing file bazooka.zaabin
+    Reqd by munged\pc\rep_weap_award_rocket_launcher.class.req
+Missing file com_weap_award_rocket_launcher.class
+    Reqd by munged\pc\rep_weap_award_rocket_launcher.class.req
+Missing file com_weap_award_rocket_launcher_ord.class
+    Reqd by munged\pc\rep_weap_award_rocket_launcher.class.req
+Missing file com_weap_inf_chaingun.class
+    Reqd by munged\pc\rep_weap_inf_chaingun.class.req
+Missing file com_weap_inf_chaingun_ord.class
+    Reqd by munged\pc\rep_weap_inf_chaingun_ord.class.req
+Missing file com_weap_inf_ord_hum_sm.class
+    Reqd by munged\pc\rep_weap_inf_chaingun_ord.class.req
+Missing file com_weap_inf_chaingun_tracer.class
+    Reqd by munged\pc\rep_weap_inf_chaingun.class.req
+Missing file rep_weap_inf_chaingun.texture
+    Reqd by munged\pc\rep_weap_inf_chaingun.model.req
+            munged\pc\rep_1st_weap_inf_chaingun.model.req
+Missing file rep_inf_trooper.texture
+    Reqd by munged\pc\rep_inf_arctrooper_low1.model.req
+
+=== rep_inf_ep2_sniper.lvl ===
+Missing file rep_gunner_icon.texture
+    Reqd by munged\pc\rep_inf_ep2_sniper.class.req
+Missing file rep_inf_sharpshooter.texture
+    Reqd by munged\pc\rep_inf_ep2_sniper.class.req
+Missing file com_weap_inf_sniper_rifle.class
+    Reqd by munged\pc\rep_weap_inf_sniper_rifle.class.req
+Missing file com_weap_inf_sniper_rifle_ord.class
+    Reqd by munged\pc\rep_weap_inf_sniper_rifle_ord.class.req
+Missing file com_weap_inf_equip_med.class
+    Reqd by munged\pc\rep_weap_inf_sniper_rifle.class.req
+            munged\pc\rep_weap_inf_autoturret_dispenser.class.req
+            munged\pc\rep_weap_award_sniper_rifle.class.req
+Missing file rep_1st_weap_inf_sniperrifle.texture
+    Reqd by munged\pc\rep_weap_inf_sniperrifle.model.req
+            munged\pc\rep_1st_weap_inf_sniperrifle.model.req
+Missing file rep_1st_weap_inf_sniperrifle_bump.texture
+    Reqd by munged\pc\rep_1st_weap_inf_sniperrifle.model.req
+Missing file com_weap_inf_pistol.class
+    Reqd by munged\pc\rep_weap_inf_pistol.class.req
+Missing file com_weap_inf_pistol_ord.class
+    Reqd by munged\pc\rep_weap_inf_pistol_ord.class.req
+Missing file com_weap_inf_equip_sm.class
+    Reqd by munged\pc\rep_weap_inf_pistol.class.req
+            munged\pc\rep_weap_inf_thermaldetonator.class.req
+            munged\pc\rep_weap_award_pistol.class.req
+Missing file rep_1st_weap_inf_pistol.texture
+    Reqd by munged\pc\rep_weap_inf_pistol.model.req
+            munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file rep_cockpit_fx.texture
+    Reqd by munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file rep_1st_weap_inf_pistol_bump.texture
+    Reqd by munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file com_weap_inf_thermaldetonator.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator.class.req
+Missing file com_weap_inf_thermaldetonator_ord.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator_ord.class.req
+Missing file com_weap_inf_thermaldetonator_exp.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator_exp.class.req
+Missing file com_weap_inf_autoturret_dispenser.class
+    Reqd by munged\pc\rep_weap_inf_autoturret_dispenser.class.req
+Missing file com_bldg_inf_autoturret.class
+    Reqd by munged\pc\rep_bldg_inf_autoturret.class.req
+Missing file com_bldg_inf_autoturret_exp.class
+    Reqd by munged\pc\rep_bldg_inf_autoturret_exp.class.req
+Missing file com_weap_inf_autoturret.class
+    Reqd by munged\pc\rep_weap_inf_autoturret.class.req
+Missing file com_weap_inf_autoturret_ord.class
+    Reqd by munged\pc\rep_weap_inf_autoturret_ord.class.req
+Missing file com_weap_award_sniper_rifle.class
+    Reqd by munged\pc\rep_weap_award_sniper_rifle.class.req
+Missing file com_weap_award_sniper_rifle_ord.class
+    Reqd by munged\pc\rep_weap_award_sniper_rifle_ord.class.req
+Missing file com_weap_award_pistol.class
+    Reqd by munged\pc\rep_weap_award_pistol.class.req
+Missing file com_weap_award_pistol_ord.class
+    Reqd by munged\pc\rep_weap_award_pistol_ord.class.req
+Missing file rep_inf_trooper.texture
+    Reqd by munged\pc\rep_inf_trooper.model.req
+            munged\pc\rep_inf_trooper_low1.model.req
+
+=== rep_inf_ep3_engineer.lvl ===
+Missing file com_weap_inf_shotgun.class
+    Reqd by munged\pc\rep_weap_inf_shotgun.class.req
+Missing file com_weap_inf_shotgun_ord.class
+    Reqd by munged\pc\rep_weap_inf_shotgun_ord.class.req
+Missing file com_weap_inf_equip_med.class
+    Reqd by munged\pc\rep_weap_inf_shotgun.class.req
+            munged\pc\rep_weap_inf_fusioncutter.class.req
+            munged\pc\rep_weap_inf_powerup_dispenser.class.req
+            munged\pc\rep_weap_award_shotgun.class.req
+Missing file rep_1st_weap_inf_rifle.texture
+    Reqd by munged\pc\rep_weap_inf_rifle.model.req
+            munged\pc\rep_1st_weap_inf_rifle.model.req
+Missing file rep_cockpit_fx.texture
+    Reqd by munged\pc\rep_1st_weap_inf_rifle.model.req
+            munged\pc\rep_weap_inf_fusioncutter.model.req
+            munged\pc\rep_1st_weap_inf_fusioncutter.model.req
+Missing file rep_1st_weap_inf_rifle_bump.texture
+    Reqd by munged\pc\rep_1st_weap_inf_rifle.model.req
+Missing file com_weap_inf_fusioncutter.class
+    Reqd by munged\pc\rep_weap_inf_fusioncutter.class.req
+Missing file rep_1st_weap_inf_fusioncutter.texture
+    Reqd by munged\pc\rep_weap_inf_fusioncutter.model.req
+            munged\pc\rep_1st_weap_inf_fusioncutter.model.req
+Missing file com_weap_inf_detpack.class
+    Reqd by munged\pc\rep_weap_inf_detpack.class.req
+Missing file com_weap_inf_detpack_ord.class
+    Reqd by munged\pc\rep_weap_inf_detpack_ord.class.req
+Missing file com_weap_inf_detpack_exp.class
+    Reqd by munged\pc\rep_weap_inf_detpack_exp.class.req
+Missing file com_weap_inf_detpack_destroyed_exp.class
+    Reqd by munged\pc\rep_weap_inf_detpack_destroyed_exp.class.req
+Missing file hud_powerup_icon.texture
+    Reqd by munged\pc\rep_weap_inf_powerup_dispenser.class.req
+Missing file hud_weap_ammo.texture
+    Reqd by munged\pc\rep_weap_inf_powerup_dispenser.class.req
+Missing file reticule_00.texture
+    Reqd by munged\pc\rep_weap_inf_powerup_dispenser.class.req
+Missing file com_weap_award_shotgun.class
+    Reqd by munged\pc\rep_weap_award_shotgun.class.req
+Missing file com_weap_award_shotgun_ord.class
+    Reqd by munged\pc\rep_weap_award_shotgun_ord.class.req
+Missing file noicon.texture
+    Reqd by munged\pc\rep_inf_ep3armoredpilot.model.req
+Missing file rep_inf_ep3armoredpilot.texture
+    Reqd by munged\pc\rep_inf_ep3armoredpilot.model.req
+            munged\pc\rep_inf_ep3armoredpilot_low1.model.req
+
+=== rep_inf_ep3_jettrooper.lvl ===
+Missing file com_weap_inf_rocket_launcher.class
+    Reqd by munged\pc\rep_weap_inf_emp_launcher.class.req
+Missing file com_weap_inf_rocket_launcher_ord.class
+    Reqd by munged\pc\rep_weap_inf_emp_launcher_ord.class.req
+Missing file com_weap_inf_rocket_launcher_exp.class
+    Reqd by munged\pc\rep_weap_inf_rocket_launcher_exp.class.req
+Missing file com_weap_inf_equip_lg.class
+    Reqd by munged\pc\rep_weap_inf_emp_launcher.class.req
+Missing file com_weap_inf_commando_pistol.class
+    Reqd by munged\pc\rep_weap_inf_commando_pistol.class.req
+Missing file com_weap_inf_commando_pistol_ord.class
+    Reqd by munged\pc\rep_weap_inf_commando_pistol_ord.class.req
+Missing file com_weap_inf_equip_sm.class
+    Reqd by munged\pc\rep_weap_inf_commando_pistol.class.req
+            munged\pc\rep_weap_inf_thermaldetonator.class.req
+            munged\pc\rep_weap_award_pistol.class.req
+Missing file rep_1st_weap_inf_pistol.texture
+    Reqd by munged\pc\rep_weap_inf_pistol.model.req
+            munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file rep_cockpit_fx.texture
+    Reqd by munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file rep_1st_weap_inf_pistol_bump.texture
+    Reqd by munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file com_weap_inf_thermaldetonator.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator.class.req
+Missing file com_weap_inf_thermaldetonator_ord.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator_ord.class.req
+Missing file com_weap_inf_thermaldetonator_exp.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator_exp.class.req
+Missing file com_weap_award_pistol.class
+    Reqd by munged\pc\rep_weap_award_pistol.class.req
+Missing file com_weap_award_pistol_ord.class
+    Reqd by munged\pc\rep_weap_award_pistol_ord.class.req
+Missing file rep_inf_ep3jettrooperjetpack.texture
+    Reqd by munged\pc\rep_inf_ep3jettrooper.model.req
+            munged\pc\rep_inf_ep3jettrooper_low1.model.req
+Missing file rep_inf_ep3jettrooper.texture
+    Reqd by munged\pc\rep_inf_ep3jettrooper.model.req
+            munged\pc\rep_inf_ep3jettrooper_low1.model.req
+
+=== rep_inf_ep3_marine.lvl ===
+Missing file com_weap_inf_rifle.class
+    Reqd by munged\pc\rep_weap_inf_rifle.class.req
+Missing file com_weap_inf_rifle_ord.class
+    Reqd by munged\pc\rep_weap_inf_rifle_ord.class.req
+Missing file com_weap_inf_equip_med.class
+    Reqd by munged\pc\rep_weap_inf_rifle.class.req
+            munged\pc\rep_weap_award_rifle.class.req
+Missing file rep_1st_weap_inf_rifle.texture
+    Reqd by munged\pc\rep_weap_inf_rifle.model.req
+            munged\pc\rep_1st_weap_inf_rifle.model.req
+Missing file rep_cockpit_fx.texture
+    Reqd by munged\pc\rep_1st_weap_inf_rifle.model.req
+Missing file rep_1st_weap_inf_rifle_bump.texture
+    Reqd by munged\pc\rep_1st_weap_inf_rifle.model.req
+Missing file com_weap_inf_rocket_launcher.class
+    Reqd by munged\pc\rep_weap_inf_rocket_launcher.class.req
+Missing file com_weap_inf_rocket_launcher_ord.class
+    Reqd by munged\pc\rep_weap_inf_rocket_launcher_ord.class.req
+Missing file com_weap_inf_rocket_launcher_exp.class
+    Reqd by munged\pc\rep_weap_inf_rocket_launcher_exp.class.req
+Missing file com_weap_inf_equip_lg.class
+    Reqd by munged\pc\rep_weap_inf_rocket_launcher.class.req
+Missing file rep_1st_weap_inf_launcher.texture
+    Reqd by munged\pc\rep_weap_inf_launcher.model.req
+            munged\pc\rep_1st_weap_inf_launcher.model.req
+Missing file com_weap_inf_thermaldetonator.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator.class.req
+Missing file com_weap_inf_thermaldetonator_ord.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator_ord.class.req
+Missing file com_weap_inf_thermaldetonator_exp.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator_exp.class.req
+Missing file com_weap_inf_equip_sm.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator.class.req
+Missing file com_weap_award_rifle.class
+    Reqd by munged\pc\rep_weap_award_rifle.class.req
+Missing file com_weap_award_rifle_ord.class
+    Reqd by munged\pc\rep_weap_award_rifle_ord.class.req
+Missing file rep_inf_ep3trooper.texture
+    Reqd by munged\pc\rep_inf_ep3trooper.model.req
+            munged\pc\rep_inf_ep3trooper_low1.model.req
+
+=== rep_inf_ep3_officer.lvl ===
+Missing file com_weap_inf_chaingun.class
+    Reqd by munged\pc\rep_weap_inf_chaingun.class.req
+Missing file com_weap_inf_chaingun_ord.class
+    Reqd by munged\pc\rep_weap_inf_chaingun_ord.class.req
+Missing file com_weap_inf_ord_hum_sm.class
+    Reqd by munged\pc\rep_weap_inf_chaingun_ord.class.req
+Missing file com_weap_inf_chaingun_tracer.class
+    Reqd by munged\pc\rep_weap_inf_chaingun.class.req
+Missing file com_weap_inf_equip_lg.class
+    Reqd by munged\pc\rep_weap_inf_chaingun.class.req
+Missing file rep_weap_inf_chaingun.texture
+    Reqd by munged\pc\rep_weap_inf_chaingun.model.req
+            munged\pc\rep_1st_weap_inf_chaingun.model.req
+Missing file com_weap_inf_pistol.class
+    Reqd by munged\pc\rep_weap_inf_pistol.class.req
+Missing file com_weap_inf_pistol_ord.class
+    Reqd by munged\pc\rep_weap_inf_pistol_ord.class.req
+Missing file com_weap_inf_equip_sm.class
+    Reqd by munged\pc\rep_weap_inf_pistol.class.req
+            munged\pc\rep_weap_inf_remotedroid_blaster.class.req
+            munged\pc\rep_weap_award_pistol.class.req
+Missing file rep_1st_weap_inf_pistol.texture
+    Reqd by munged\pc\rep_weap_inf_pistol.model.req
+            munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file rep_cockpit_fx.texture
+    Reqd by munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file rep_1st_weap_inf_pistol_bump.texture
+    Reqd by munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file com_weap_inf_buff.class
+    Reqd by munged\pc\rep_weap_inf_buff_defense.class.req
+Missing file com_weap_inf_buff_ord.class
+    Reqd by munged\pc\rep_weap_inf_buff_defense_ord.class.req
+Missing file com_weap_inf_remotedroid.class
+    Reqd by munged\pc\rep_weap_inf_remotedroid.class.req
+Missing file com_weap_inf_remotedroid_ord.class
+    Reqd by munged\pc\rep_weap_inf_remotedroid_ord.class.req
+Missing file com_weap_inf_remotedroid_exp1.class
+    Reqd by munged\pc\rep_weap_inf_remotedroid_exp1.class.req
+Missing file com_weap_inf_remotedroid_blaster.class
+    Reqd by munged\pc\rep_weap_inf_remotedroid_blaster.class.req
+Missing file com_weap_inf_remotedroid_blaster_ord.class
+    Reqd by munged\pc\rep_weap_inf_remotedroid_blaster_ord.class.req
+Missing file com_weap_inf_remotedroid_destruct.class
+    Reqd by munged\pc\rep_weap_inf_remotedroid_destruct.class.req
+Missing file com_weap_inf_equip_med.class
+    Reqd by munged\pc\rep_weap_inf_remotedroid.class.req
+Missing file com_weap_award_pistol.class
+    Reqd by munged\pc\rep_weap_award_pistol.class.req
+Missing file com_weap_award_pistol_ord.class
+    Reqd by munged\pc\rep_weap_award_pistol_ord.class.req
+Missing file rep_inf_clonecommander_cape.texture
+    Reqd by munged\pc\rep_inf_clonecommander.model.req
+Missing file rep_inf_clonecommander.texture
+    Reqd by munged\pc\rep_inf_clonecommander.model.req
+            munged\pc\rep_inf_clonecommander_low1.model.req
+
+=== rep_inf_ep3_pilot.lvl ===
+Missing file com_weap_inf_commando_pistol.class
+    Reqd by munged\pc\rep_weap_inf_commando_pistol.class.req
+Missing file com_weap_inf_commando_pistol_ord.class
+    Reqd by munged\pc\rep_weap_inf_commando_pistol_ord.class.req
+Missing file com_weap_inf_equip_sm.class
+    Reqd by munged\pc\rep_weap_inf_commando_pistol.class.req
+            munged\pc\rep_weap_award_pistol.class.req
+Missing file rep_1st_weap_inf_pistol.texture
+    Reqd by munged\pc\rep_weap_inf_pistol.model.req
+            munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file rep_cockpit_fx.texture
+    Reqd by munged\pc\rep_1st_weap_inf_pistol.model.req
+            munged\pc\rep_weap_inf_fusioncutter.model.req
+            munged\pc\rep_1st_weap_inf_fusioncutter.model.req
+Missing file rep_1st_weap_inf_pistol_bump.texture
+    Reqd by munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file com_weap_inf_fusioncutter.class
+    Reqd by munged\pc\rep_weap_inf_fusioncutter.class.req
+Missing file com_weap_inf_equip_med.class
+    Reqd by munged\pc\rep_weap_inf_fusioncutter.class.req
+Missing file rep_1st_weap_inf_fusioncutter.texture
+    Reqd by munged\pc\rep_weap_inf_fusioncutter.model.req
+            munged\pc\rep_1st_weap_inf_fusioncutter.model.req
+Missing file com_weap_inf_timebomb.class
+    Reqd by munged\pc\rep_weap_inf_timebomb.class.req
+Missing file com_weap_inf_timebomb_ord.class
+    Reqd by munged\pc\rep_weap_inf_timebomb_ord.class.req
+Missing file com_weap_inf_timebomb_exp.class
+    Reqd by munged\pc\rep_weap_inf_timebomb_exp.class.req
+Missing file com_weap_inf_timebomb_destroyed_exp.class
+    Reqd by munged\pc\rep_weap_inf_timebomb_destroyed_exp.class.req
+Missing file com_weap_award_pistol.class
+    Reqd by munged\pc\rep_weap_award_pistol.class.req
+Missing file com_weap_award_pistol_ord.class
+    Reqd by munged\pc\rep_weap_award_pistol_ord.class.req
+Missing file rep_inf_ep3spacepilotvisor.texture
+    Reqd by munged\pc\rep_inf_ep3spacepilot.model.req
+Missing file rep_inf_ep3spacepilot.texture
+    Reqd by munged\pc\rep_inf_ep3spacepilot.model.req
+            munged\pc\rep_inf_ep3spacepilot_low1.model.req
+
+=== rep_inf_ep3_rifleman.lvl ===
+Missing file com_weap_inf_rifle.class
+    Reqd by munged\pc\rep_weap_inf_rifle.class.req
+Missing file com_weap_inf_rifle_ord.class
+    Reqd by munged\pc\rep_weap_inf_rifle_ord.class.req
+Missing file com_weap_inf_equip_med.class
+    Reqd by munged\pc\rep_weap_inf_rifle.class.req
+            munged\pc\rep_weap_award_rifle.class.req
+Missing file rep_1st_weap_inf_rifle.texture
+    Reqd by munged\pc\rep_weap_inf_rifle.model.req
+            munged\pc\rep_1st_weap_inf_rifle.model.req
+Missing file rep_cockpit_fx.texture
+    Reqd by munged\pc\rep_1st_weap_inf_rifle.model.req
+            munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file rep_1st_weap_inf_rifle_bump.texture
+    Reqd by munged\pc\rep_1st_weap_inf_rifle.model.req
+Missing file com_weap_inf_pistol.class
+    Reqd by munged\pc\rep_weap_inf_pistol.class.req
+Missing file com_weap_inf_pistol_ord.class
+    Reqd by munged\pc\rep_weap_inf_pistol_ord.class.req
+Missing file com_weap_inf_equip_sm.class
+    Reqd by munged\pc\rep_weap_inf_pistol.class.req
+            munged\pc\rep_weap_inf_thermaldetonator.class.req
+            munged\pc\rep_weap_award_pistol.class.req
+Missing file rep_1st_weap_inf_pistol.texture
+    Reqd by munged\pc\rep_weap_inf_pistol.model.req
+            munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file rep_1st_weap_inf_pistol_bump.texture
+    Reqd by munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file com_weap_inf_thermaldetonator.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator.class.req
+Missing file com_weap_inf_thermaldetonator_ord.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator_ord.class.req
+Missing file com_weap_inf_thermaldetonator_exp.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator_exp.class.req
+Missing file com_weap_award_rifle.class
+    Reqd by munged\pc\rep_weap_award_rifle.class.req
+Missing file com_weap_award_rifle_ord.class
+    Reqd by munged\pc\rep_weap_award_rifle_ord.class.req
+Missing file com_weap_award_pistol.class
+    Reqd by munged\pc\rep_weap_award_pistol.class.req
+Missing file com_weap_award_pistol_ord.class
+    Reqd by munged\pc\rep_weap_award_pistol_ord.class.req
+Missing file rep_inf_ep3trooper.texture
+    Reqd by munged\pc\rep_inf_ep3trooper.model.req
+            munged\pc\rep_inf_ep3trooper_low1.model.req
+
+=== rep_inf_ep3_rifleman_space.lvl ===
+Missing file rep_inf_ep3_rifleman_space.class
+    Reqd by ..\..\..\sides\clo\req\rep_inf_ep3_rifleman_space.req
+
+=== rep_inf_ep3_rocketeer.lvl ===
+Missing file com_weap_inf_rocket_launcher.class
+    Reqd by munged\pc\rep_weap_inf_rocket_launcher.class.req
+Missing file com_weap_inf_rocket_launcher_ord.class
+    Reqd by munged\pc\rep_weap_inf_rocket_launcher_ord.class.req
+Missing file com_weap_inf_rocket_launcher_exp.class
+    Reqd by munged\pc\rep_weap_inf_rocket_launcher_exp.class.req
+Missing file com_weap_inf_equip_lg.class
+    Reqd by munged\pc\rep_weap_inf_rocket_launcher.class.req
+            munged\pc\rep_weap_award_rocket_launcher.class.req
+Missing file rep_1st_weap_inf_launcher.texture
+    Reqd by munged\pc\rep_weap_inf_launcher.model.req
+            munged\pc\rep_1st_weap_inf_launcher.model.req
+Missing file com_weap_inf_pistol.class
+    Reqd by munged\pc\rep_weap_inf_pistol.class.req
+Missing file com_weap_inf_pistol_ord.class
+    Reqd by munged\pc\rep_weap_inf_pistol_ord.class.req
+Missing file com_weap_inf_equip_sm.class
+    Reqd by munged\pc\rep_weap_inf_pistol.class.req
+            munged\pc\rep_weap_inf_thermaldetonator.class.req
+            munged\pc\rep_weap_award_pistol.class.req
+Missing file rep_1st_weap_inf_pistol.texture
+    Reqd by munged\pc\rep_weap_inf_pistol.model.req
+            munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file rep_cockpit_fx.texture
+    Reqd by munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file rep_1st_weap_inf_pistol_bump.texture
+    Reqd by munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file com_weap_inf_thermaldetonator.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator.class.req
+Missing file com_weap_inf_thermaldetonator_ord.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator_ord.class.req
+Missing file com_weap_inf_thermaldetonator_exp.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator_exp.class.req
+Missing file com_weap_inf_mine_dispenser.class
+    Reqd by munged\pc\rep_weap_inf_mine_dispenser.class.req
+Missing file com_weap_inf_landmine.class
+    Reqd by munged\pc\rep_weap_inf_mine_dispenser.class.req
+Missing file com_weap_inf_equip_med.class
+    Reqd by munged\pc\rep_weap_inf_mine_dispenser.class.req
+Missing file com_weap_award_pistol.class
+    Reqd by munged\pc\rep_weap_award_pistol.class.req
+Missing file com_weap_award_pistol_ord.class
+    Reqd by munged\pc\rep_weap_award_pistol_ord.class.req
+Missing file bazooka.zafbin
+    Reqd by munged\pc\rep_weap_award_rocket_launcher.class.req
+Missing file bazooka.zaabin
+    Reqd by munged\pc\rep_weap_award_rocket_launcher.class.req
+Missing file com_weap_award_rocket_launcher.class
+    Reqd by munged\pc\rep_weap_award_rocket_launcher.class.req
+Missing file com_weap_award_rocket_launcher_ord.class
+    Reqd by munged\pc\rep_weap_award_rocket_launcher.class.req
+Missing file rep_inf_ep3heavytrooper_cape.texture
+    Reqd by munged\pc\rep_inf_ep3heavytrooper.model.req
+            munged\pc\rep_inf_ep3heavytrooper_low1.model.req
+Missing file rep_inf_ep3heavytrooper.texture
+    Reqd by munged\pc\rep_inf_ep3heavytrooper.model.req
+            munged\pc\rep_inf_ep3heavytrooper_low1.model.req
+
+=== rep_inf_ep3_sniper.lvl ===
+Missing file com_weap_inf_sniper_rifle.class
+    Reqd by munged\pc\rep_weap_inf_sniper_rifle.class.req
+Missing file com_weap_inf_sniper_rifle_ord.class
+    Reqd by munged\pc\rep_weap_inf_sniper_rifle_ord.class.req
+Missing file com_weap_inf_equip_med.class
+    Reqd by munged\pc\rep_weap_inf_sniper_rifle.class.req
+            munged\pc\rep_weap_inf_autoturret_dispenser.class.req
+            munged\pc\rep_weap_award_sniper_rifle.class.req
+Missing file rep_1st_weap_inf_sniperrifle.texture
+    Reqd by munged\pc\rep_weap_inf_sniperrifle.model.req
+            munged\pc\rep_1st_weap_inf_sniperrifle.model.req
+Missing file rep_1st_weap_inf_sniperrifle_bump.texture
+    Reqd by munged\pc\rep_1st_weap_inf_sniperrifle.model.req
+Missing file com_weap_inf_pistol.class
+    Reqd by munged\pc\rep_weap_inf_pistol.class.req
+Missing file com_weap_inf_pistol_ord.class
+    Reqd by munged\pc\rep_weap_inf_pistol_ord.class.req
+Missing file com_weap_inf_equip_sm.class
+    Reqd by munged\pc\rep_weap_inf_pistol.class.req
+            munged\pc\rep_weap_inf_thermaldetonator.class.req
+            munged\pc\rep_weap_award_pistol.class.req
+Missing file rep_1st_weap_inf_pistol.texture
+    Reqd by munged\pc\rep_weap_inf_pistol.model.req
+            munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file rep_cockpit_fx.texture
+    Reqd by munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file rep_1st_weap_inf_pistol_bump.texture
+    Reqd by munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file com_weap_inf_thermaldetonator.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator.class.req
+Missing file com_weap_inf_thermaldetonator_ord.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator_ord.class.req
+Missing file com_weap_inf_thermaldetonator_exp.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator_exp.class.req
+Missing file com_weap_inf_autoturret_dispenser.class
+    Reqd by munged\pc\rep_weap_inf_autoturret_dispenser.class.req
+Missing file com_bldg_inf_autoturret.class
+    Reqd by munged\pc\rep_bldg_inf_autoturret.class.req
+Missing file com_bldg_inf_autoturret_exp.class
+    Reqd by munged\pc\rep_bldg_inf_autoturret_exp.class.req
+Missing file com_weap_inf_autoturret.class
+    Reqd by munged\pc\rep_weap_inf_autoturret.class.req
+Missing file com_weap_inf_autoturret_ord.class
+    Reqd by munged\pc\rep_weap_inf_autoturret_ord.class.req
+Missing file com_weap_award_sniper_rifle.class
+    Reqd by munged\pc\rep_weap_award_sniper_rifle.class.req
+Missing file com_weap_award_sniper_rifle_ord.class
+    Reqd by munged\pc\rep_weap_award_sniper_rifle_ord.class.req
+Missing file com_weap_award_pistol.class
+    Reqd by munged\pc\rep_weap_award_pistol.class.req
+Missing file com_weap_award_pistol_ord.class
+    Reqd by munged\pc\rep_weap_award_pistol_ord.class.req
+Missing file rep_inf_ep3sniper_cape.texture
+    Reqd by munged\pc\rep_inf_ep3sniper.model.req
+            munged\pc\rep_inf_ep3sniper_low1.model.req
+Missing file rep_inf_ep3sniper.texture
+    Reqd by munged\pc\rep_inf_ep3sniper.model.req
+            munged\pc\rep_inf_ep3sniper_low1.model.req
+
+=== rep_inf_ep3_sniper_felucia.lvl ===
+Missing file com_weap_inf_sniper_rifle.class
+    Reqd by munged\pc\rep_weap_inf_sniper_rifle.class.req
+Missing file com_weap_inf_sniper_rifle_ord.class
+    Reqd by munged\pc\rep_weap_inf_sniper_rifle_ord.class.req
+Missing file com_weap_inf_equip_med.class
+    Reqd by munged\pc\rep_weap_inf_sniper_rifle.class.req
+            munged\pc\rep_weap_inf_autoturret_dispenser.class.req
+            munged\pc\rep_weap_award_sniper_rifle.class.req
+Missing file rep_1st_weap_inf_sniperrifle.texture
+    Reqd by munged\pc\rep_weap_inf_sniperrifle.model.req
+            munged\pc\rep_1st_weap_inf_sniperrifle.model.req
+Missing file rep_1st_weap_inf_sniperrifle_bump.texture
+    Reqd by munged\pc\rep_1st_weap_inf_sniperrifle.model.req
+Missing file com_weap_inf_pistol.class
+    Reqd by munged\pc\rep_weap_inf_pistol.class.req
+Missing file com_weap_inf_pistol_ord.class
+    Reqd by munged\pc\rep_weap_inf_pistol_ord.class.req
+Missing file com_weap_inf_equip_sm.class
+    Reqd by munged\pc\rep_weap_inf_pistol.class.req
+            munged\pc\rep_weap_inf_thermaldetonator.class.req
+            munged\pc\rep_weap_award_pistol.class.req
+Missing file rep_1st_weap_inf_pistol.texture
+    Reqd by munged\pc\rep_weap_inf_pistol.model.req
+            munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file rep_cockpit_fx.texture
+    Reqd by munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file rep_1st_weap_inf_pistol_bump.texture
+    Reqd by munged\pc\rep_1st_weap_inf_pistol.model.req
+Missing file com_weap_inf_thermaldetonator.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator.class.req
+Missing file com_weap_inf_thermaldetonator_ord.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator_ord.class.req
+Missing file com_weap_inf_thermaldetonator_exp.class
+    Reqd by munged\pc\rep_weap_inf_thermaldetonator_exp.class.req
+Missing file com_weap_inf_autoturret_dispenser.class
+    Reqd by munged\pc\rep_weap_inf_autoturret_dispenser.class.req
+Missing file com_bldg_inf_autoturret.class
+    Reqd by munged\pc\rep_bldg_inf_autoturret.class.req
+Missing file com_bldg_inf_autoturret_exp.class
+    Reqd by munged\pc\rep_bldg_inf_autoturret_exp.class.req
+Missing file com_weap_inf_autoturret.class
+    Reqd by munged\pc\rep_weap_inf_autoturret.class.req
+Missing file com_weap_inf_autoturret_ord.class
+    Reqd by munged\pc\rep_weap_inf_autoturret_ord.class.req
+Missing file com_weap_award_sniper_rifle.class
+    Reqd by munged\pc\rep_weap_award_sniper_rifle.class.req
+Missing file com_weap_award_sniper_rifle_ord.class
+    Reqd by munged\pc\rep_weap_award_sniper_rifle_ord.class.req
+Missing file com_weap_award_pistol.class
+    Reqd by munged\pc\rep_weap_award_pistol.class.req
+Missing file com_weap_award_pistol_ord.class
+    Reqd by munged\pc\rep_weap_award_pistol_ord.class.req
+Missing file rep_inf_feluciatrooper.texture
+    Reqd by munged\pc\rep_inf_feluciatrooper.model.req
+            munged\pc\rep_inf_feluciatrooper_low1.model.req
+
+=== rep_inf_ep3_space_pilot.lvl ===
+Missing file rep_inf_ep3_space_pilot.class
+    Reqd by ..\..\..\sides\clo\req\rep_inf_ep3_space_pilot.req
+
+=== rep_veh_remote_terminal.lvl ===
+Missing file rep_prop_turretchair.texture
+    Reqd by munged\pc\rep_prop_turretchair.model.req
+
+=== rep_walk_atte.lvl ===
+Missing file atte_icon.texture
+    Reqd by munged\pc\rep_walk_atte.class.req
+Missing file hud_rep_atte_icon.texture
+    Reqd by munged\pc\rep_walk_atte.class.req
+Missing file ginormousdustcloud.config
+    Reqd by munged\pc\rep_walk_atte.class.req
+Missing file dirtspray.config
+    Reqd by munged\pc\rep_walk_atte.class.req
+Missing file rep_walk_sixleg_grate.texture
+    Reqd by munged\pc\rep_walk_atte.model.req
+Missing file rep_walk_sixleg_lowrez.texture
+    Reqd by munged\pc\rep_walk_atte.model.req
+Missing file rep_walk_sixleg.texture
+    Reqd by munged\pc\rep_walk_atte.model.req
+            munged\pc\rep_walk_atte_chunk1.model.req
+            munged\pc\rep_walk_atte_chunk2.model.req
+            munged\pc\rep_walk_atte_chunk3.model.req
+            munged\pc\rep_walk_atte_chunk4.model.req
+            munged\pc\rep_walk_atte_chunk5.model.req
+            munged\pc\rep_walk_atte_chunk6.model.req
+Missing file rep_walk_sixleg_bump.texture
+    Reqd by munged\pc\rep_walk_atte.model.req
+Missing file atat_explosion.class
+    Reqd by munged\pc\rep_walk_atte.class.req
+Missing file com_weap_veh_laser.class
+    Reqd by munged\pc\rep_weap_walk_atte_laser.class.req
+Missing file com_weap_veh_laser_ord.class
+    Reqd by munged\pc\rep_weap_walk_atte_laser_ord.class.req
+Missing file com_weap_veh_recoilless.class
+    Reqd by munged\pc\rep_weap_walk_atte_recoilless.class.req
+            munged\pc\rep_weap_walk_atte_turret_cannon.class.req
+Missing file com_weap_veh_recoilless_ord.class
+    Reqd by munged\pc\rep_weap_walk_atte_recoilless_ord.class.req
+            munged\pc\rep_weap_walk_atte_turret_cannon_ord.class.req
+Missing file com_weap_inf_ord_hum_lg.class
+    Reqd by munged\pc\rep_weap_walk_atte_recoilless_ord.class.req
+            munged\pc\rep_weap_walk_atte_turret_cannon_ord.class.req
+Missing file com_weap_veh_chaingun.class
+    Reqd by munged\pc\rep_weap_walk_atte_rear_gun.class.req
+Missing file com_weap_veh_chaingun_ord.class
+    Reqd by munged\pc\rep_weap_walk_atte_rear_gun_ord.class.req
+
+=== rep_walk_atte_nospawn.lvl ===
+Missing file rep_walk_atte_nospawn.class
+    Reqd by ..\..\..\sides\clo\req\rep_walk_atte_nospawn.req
+
+=== rep_walk_oneman_atst.lvl ===
+Missing file oneman_atst_icon.texture
+    Reqd by munged\pc\rep_walk_oneman_atst.class.req
+Missing file hud_imp_atst_icon.texture
+    Reqd by munged\pc\rep_walk_oneman_atst.class.req
+Missing file rep_walk_1_man_atst.texture
+    Reqd by munged\pc\rep_walk_oneman_atst.model.req
+            munged\pc\rep_walk_oneman_atst_chunk1.model.req
+            munged\pc\rep_walk_oneman_atst_chunk2.model.req
+            munged\pc\rep_walk_oneman_atst_chunk3.model.req
+            munged\pc\rep_walk_oneman_atst_chunk4.model.req
+            munged\pc\rep_walk_oneman_atst_chunk5.model.req
+            munged\pc\rep_walk_oneman_atst_chunk6.model.req
+            munged\pc\rep_walk_oneman_atst_chunk7.model.req
+Missing file rep_walk_1_man_atst_bump.texture
+    Reqd by munged\pc\rep_walk_oneman_atst.model.req
+Missing file com_weap_veh_laser.class
+    Reqd by munged\pc\rep_weap_walk_atrt_laser.class.req
+Missing file com_weap_veh_laser_ord.class
+    Reqd by munged\pc\rep_weap_walk_atrt_laser_ord.class.req
+Missing file com_weap_veh_mortar.class
+    Reqd by munged\pc\rep_weap_walk_oneman_atst_cannon.class.req
+Missing file com_weap_veh_mortar_ord.class
+    Reqd by munged\pc\rep_weap_walk_oneman_atst_cannon_ord.class.req
+Missing file dirtspray.config
+    Reqd by munged\pc\rep_walk_oneman_atst.class.req
+
+=== uta1_prop_gunship.lvl ===
+Missing file hud_rep_gunship_icon.texture
+    Reqd by munged\pc\uta_fly_ride_gunship.class.req
+Missing file rep_inf_ep3trooper.texture
+    Reqd by munged\pc\uta1_prop_gunship.model.req
+Missing file rep_la_at.texture
+    Reqd by munged\pc\uta1_prop_gunship.model.req
+            munged\pc\gunship_chunk1.model.req
+            munged\pc\gunship_chunk2.model.req
+            munged\pc\rep_la_at_gunship_hulk.model.req
+Missing file rep_la_at_balls.texture
+    Reqd by munged\pc\uta1_prop_gunship.model.req
+            munged\pc\gunship_chunk1.model.req
+            munged\pc\rep_la_at_gunship_hulk.model.req
+Missing file com_weap_veh_fly_recoilless.class
+    Reqd by munged\pc\rep_weap_fly_gunship_cannon.class.req
+Missing file com_weap_veh_fly_recoilless_ord.class
+    Reqd by munged\pc\rep_weap_fly_gunship_cannon_ord.class.req
+Missing file com_weap_veh_fly_torpedo.class
+    Reqd by munged\pc\rep_weap_fly_gunship_missile.class.req
+Missing file com_weap_veh_fly_torpedo_ord.class
+    Reqd by munged\pc\rep_weap_fly_gunship_missile_ord.class.req
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\rep_weap_fly_gunship_wing.class.req
+Missing file reticule_rifle.texture
+    Reqd by munged\pc\rep_weap_fly_gunship_wing.class.req
+            munged\pc\rep_weap_fly_gunship_cannon_weak.class.req
+Missing file hud_weap_semiauto.texture
+    Reqd by munged\pc\rep_weap_fly_gunship_wing.class.req
+Missing file cis_sfx_weap_spiderdroid_ord_exp.config
+    Reqd by munged\pc\rep_weap_fly_gunship_wing_ord.class.req
+Missing file imp_blasterrifle_icon.texture
+    Reqd by munged\pc\rep_weap_fly_gunship_cannon_weak.class.req
+Missing file hud_weap_fullauto.texture
+    Reqd by munged\pc\rep_weap_fly_gunship_cannon_weak.class.req
+Missing file com_weap_inf_ord_hum_lg.class
+    Reqd by munged\pc\rep_weap_fly_gunship_cannon_weak_ord.class.req
+Missing file dirtspray.config
+    Reqd by munged\pc\uta_fly_ride_gunship.class.req
+
+=== uta_fly_ride_gunship.lvl ===
+Missing file hud_rep_gunship_icon.texture
+    Reqd by munged\pc\uta_fly_ride_gunship.class.req
+Missing file rep_inf_ep3trooper.texture
+    Reqd by munged\pc\uta1_prop_gunship.model.req
+Missing file rep_la_at.texture
+    Reqd by munged\pc\uta1_prop_gunship.model.req
+            munged\pc\gunship_chunk1.model.req
+            munged\pc\gunship_chunk2.model.req
+            munged\pc\rep_la_at_gunship_hulk.model.req
+Missing file rep_la_at_balls.texture
+    Reqd by munged\pc\uta1_prop_gunship.model.req
+            munged\pc\gunship_chunk1.model.req
+            munged\pc\rep_la_at_gunship_hulk.model.req
+Missing file com_weap_veh_fly_recoilless.class
+    Reqd by munged\pc\rep_weap_fly_gunship_cannon.class.req
+Missing file com_weap_veh_fly_recoilless_ord.class
+    Reqd by munged\pc\rep_weap_fly_gunship_cannon_ord.class.req
+Missing file com_weap_veh_fly_torpedo.class
+    Reqd by munged\pc\rep_weap_fly_gunship_missile.class.req
+Missing file com_weap_veh_fly_torpedo_ord.class
+    Reqd by munged\pc\rep_weap_fly_gunship_missile_ord.class.req
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\rep_weap_fly_gunship_wing.class.req
+Missing file reticule_rifle.texture
+    Reqd by munged\pc\rep_weap_fly_gunship_wing.class.req
+            munged\pc\rep_weap_fly_gunship_cannon_weak.class.req
+Missing file hud_weap_semiauto.texture
+    Reqd by munged\pc\rep_weap_fly_gunship_wing.class.req
+Missing file cis_sfx_weap_spiderdroid_ord_exp.config
+    Reqd by munged\pc\rep_weap_fly_gunship_wing_ord.class.req
+Missing file imp_blasterrifle_icon.texture
+    Reqd by munged\pc\rep_weap_fly_gunship_cannon_weak.class.req
+Missing file hud_weap_fullauto.texture
+    Reqd by munged\pc\rep_weap_fly_gunship_cannon_weak.class.req
+Missing file com_weap_inf_ord_hum_lg.class
+    Reqd by munged\pc\rep_weap_fly_gunship_cannon_weak_ord.class.req
+Missing file dirtspray.config
+    Reqd by munged\pc\uta_fly_ride_gunship.class.req
+
+=== uta_fly_ride_gunshipmyg.lvl ===
+Missing file hud_rep_gunship_icon.texture
+    Reqd by munged\pc\uta_fly_ride_gunshipmyg.class.req
+Missing file rep_inf_ep3trooper.texture
+    Reqd by munged\pc\uta1_prop_gunship.model.req
+Missing file rep_la_at.texture
+    Reqd by munged\pc\uta1_prop_gunship.model.req
+            munged\pc\gunship_chunk1.model.req
+            munged\pc\gunship_chunk2.model.req
+            munged\pc\rep_la_at_gunship_hulk.model.req
+Missing file rep_la_at_balls.texture
+    Reqd by munged\pc\uta1_prop_gunship.model.req
+            munged\pc\gunship_chunk1.model.req
+            munged\pc\rep_la_at_gunship_hulk.model.req
+Missing file com_weap_veh_fly_recoilless.class
+    Reqd by munged\pc\rep_weap_fly_gunship_cannon.class.req
+Missing file com_weap_veh_fly_recoilless_ord.class
+    Reqd by munged\pc\rep_weap_fly_gunship_cannon_ord.class.req
+Missing file com_weap_veh_fly_torpedo.class
+    Reqd by munged\pc\rep_weap_fly_gunship_missile.class.req
+Missing file com_weap_veh_fly_torpedo_ord.class
+    Reqd by munged\pc\rep_weap_fly_gunship_missile_ord.class.req
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\rep_weap_fly_gunship_wing.class.req
+Missing file reticule_rifle.texture
+    Reqd by munged\pc\rep_weap_fly_gunship_wing.class.req
+            munged\pc\rep_weap_fly_gunship_cannon_weak.class.req
+Missing file hud_weap_semiauto.texture
+    Reqd by munged\pc\rep_weap_fly_gunship_wing.class.req
+Missing file cis_sfx_weap_spiderdroid_ord_exp.config
+    Reqd by munged\pc\rep_weap_fly_gunship_wing_ord.class.req
+Missing file imp_blasterrifle_icon.texture
+    Reqd by munged\pc\rep_weap_fly_gunship_cannon_weak.class.req
+Missing file hud_weap_fullauto.texture
+    Reqd by munged\pc\rep_weap_fly_gunship_cannon_weak.class.req
+Missing file com_weap_inf_ord_hum_lg.class
+    Reqd by munged\pc\rep_weap_fly_gunship_cannon_weak_ord.class.req
+Missing file dirtspray.config
+    Reqd by munged\pc\uta_fly_ride_gunshipmyg.class.req
+   0 Errors    0 Warnings
+

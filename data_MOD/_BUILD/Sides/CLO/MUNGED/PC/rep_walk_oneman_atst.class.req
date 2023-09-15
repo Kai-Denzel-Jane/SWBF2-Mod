@@ -1,0 +1,49 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"oneman_atst_icon"
+		"hud_imp_atst_icon"
+	}
+	REQN
+	{
+		"animbank"
+		"rep_walk_oneman_atst"
+	}
+	REQN
+	{
+		"anim"
+		"human_drive_1manatst"
+	}
+	REQN
+	{
+		"model"
+		"hud_atrt_shape"
+		"rep_walk_oneman_atst"
+		"rep_walk_oneman_atst_chunk1"
+		"rep_walk_oneman_atst_chunk2"
+		"rep_walk_oneman_atst_chunk3"
+		"rep_walk_oneman_atst_chunk4"
+		"rep_walk_oneman_atst_chunk5"
+		"rep_walk_oneman_atst_chunk6"
+		"rep_walk_oneman_atst_chunk7"
+	}
+	REQN
+	{
+		"class"
+		"rep_weap_walk_atrt_laser"
+		"rep_weap_walk_oneman_atst_cannon"
+	}
+	REQN
+	{
+		"config"
+		"com_sfx_vehiclespark"
+		"com_sfx_vehiclesmoke"
+		"com_sfx_vehicleflame"
+		"dirtspray"
+		"com_sfx_chunktrail_sm"
+		"com_sfx_explosion_lg"
+	}
+}

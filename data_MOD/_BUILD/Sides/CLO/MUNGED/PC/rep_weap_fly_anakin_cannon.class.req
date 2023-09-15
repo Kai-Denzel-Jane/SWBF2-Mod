@@ -1,0 +1,10 @@
+
+ucft
+{
+	REQN
+	{
+		"class"
+		"com_weap_veh_fly_scoutlasers"
+		"rep_weap_fly_jedifighter_cannon_ord"
+	}
+}

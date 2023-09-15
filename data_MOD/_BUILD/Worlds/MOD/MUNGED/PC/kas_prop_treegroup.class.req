@@ -1,0 +1,14 @@
+
+ucft
+{
+	REQN
+	{
+		"model"
+		"kas_prop_treegroup"
+	}
+	REQN
+	{
+		"class"
+		"kas_prop_leafpatch"
+	}
+}

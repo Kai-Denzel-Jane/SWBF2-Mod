@@ -1,0 +1,14 @@
+
+ucft
+{
+	REQN
+	{
+		"model"
+		"kas2_prop_splash"
+	}
+	REQN
+	{
+		"config"
+		"com_sfx_watersplash_lg"
+	}
+}

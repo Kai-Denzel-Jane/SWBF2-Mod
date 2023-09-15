@@ -1,0 +1,24 @@
+
+ucft
+{
+	REQN
+	{
+		"animbank"
+		"obiwan"
+	}
+	REQN
+	{
+		"class"
+		"com_jedi_default"
+		"rep_inf_ep3obiwan_skirt"
+		"rep_weap_lightsaber_obiwan"
+		"com_weap_inf_sabre_throw"
+		"com_weap_inf_force_push"
+	}
+	REQN
+	{
+		"model"
+		"rep_inf_ep3obiwan"
+		"rep_inf_ep3obiwan_low1"
+	}
+}

@@ -1,0 +1,11 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"kas2_prop_light_rail"
+		"kas2_tech_lowrez"
+		"kas2_tech"
+	}
+}

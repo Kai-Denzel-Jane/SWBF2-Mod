@@ -1,0 +1,10 @@
+
+ucft
+{
+	REQN
+	{
+		"class"
+		"com_weap_veh_fly_torpedo"
+		"rep_weap_fly_arc170_bomb_ord"
+	}
+}

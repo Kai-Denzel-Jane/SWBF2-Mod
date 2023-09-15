@@ -1,0 +1,14 @@
+
+ucft
+{
+	REQN
+	{
+		"model"
+		"kas2_prop_dirt"
+	}
+	REQN
+	{
+		"config"
+		"kas_sfx_beachexplosion"
+	}
+}

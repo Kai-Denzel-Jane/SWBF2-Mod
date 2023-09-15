@@ -1,0 +1,10 @@
+
+ucft
+{
+	REQN
+	{
+		"class"
+		"com_weap_veh_fly_stingers_ord"
+		"rep_weap_fly_jedifighter_missile_exp"
+	}
+}

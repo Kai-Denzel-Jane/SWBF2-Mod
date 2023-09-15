@@ -1,0 +1,25 @@
+
+ucft
+{
+	REQN
+	{
+		"animbank"
+		"yoda"
+		"yodalz"
+	}
+	REQN
+	{
+		"class"
+		"com_jedi_default"
+		"rep_inf_yoda_cloth"
+		"rep_weap_lightsaber_yoda"
+		"com_weap_inf_force_pull"
+		"com_weap_inf_force_push"
+	}
+	REQN
+	{
+		"model"
+		"rep_inf_yoda"
+		"rep_inf_yoda_low1"
+	}
+}

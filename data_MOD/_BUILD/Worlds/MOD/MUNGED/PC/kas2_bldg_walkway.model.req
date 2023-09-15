@@ -1,0 +1,12 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"kas2_walls_01_lowrez"
+		"kas2_cobbles_02_lowrez"
+		"kas2_walls_01"
+		"kas2_cobbles_02"
+	}
+}

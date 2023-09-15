@@ -1,0 +1,26 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"rep_gunner_icon"
+		"rep_inf_arc_blue"
+		"rep_inf_arc_pack_blue"
+	}
+	REQN
+	{
+		"class"
+		"rep_inf_default_rocketeer"
+		"rep_inf_arctrooper_cape"
+		"rep_weap_inf_chaingun"
+		"rep_weap_inf_pistol"
+		"rep_weap_inf_thermaldetonator"
+	}
+	REQN
+	{
+		"model"
+		"rep_inf_arctrooper"
+		"rep_inf_arctrooper_low1"
+	}
+}

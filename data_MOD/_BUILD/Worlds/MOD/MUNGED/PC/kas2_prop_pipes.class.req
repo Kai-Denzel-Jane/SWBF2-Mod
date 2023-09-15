@@ -1,0 +1,28 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"rechargedroid_icon"
+	}
+	REQN
+	{
+		"class"
+		"com_holo_build"
+		"com_inf_rechargedroid_exp"
+	}
+	REQN
+	{
+		"model"
+		"kas_prop_pipes"
+		"kas_prop_pipes_destroyed"
+	}
+	REQN
+	{
+		"config"
+		"com_sfx_vehicleflame"
+		"com_sfx_vehiclesmoke"
+		"com_sfx_vehiclespark"
+	}
+}

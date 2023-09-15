@@ -1,0 +1,41 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"kas2_bump"
+		"kas2"
+		"kas2_far_detail"
+	}
+	REQN
+	{
+		"model"
+		"kas2_sky_dome"
+		"kas2_sky_clouds"
+		"kas2_sky_clouds2"
+		"rep_fly_cat_dome"
+		"cis_fly_gunship_dome"
+		"rcis_fly_gunship_dome"
+	}
+	REQN
+	{
+		"config"
+		"spa_sfx_skydomeexplosions"
+		"hp_sky_1"
+		"hp_sky_2"
+		"hp_sky_3"
+		"hp_sky_4"
+		"hp_sky_5"
+		"hp_sky_6"
+		"hp_sky_7"
+		"hp_sky_8"
+		"hp_sky_9"
+		"hp_sky_10"
+		"hp_sky_11"
+		"hp_sky_12"
+		"hp_sky_13"
+		"hp_sky_14"
+		"hp_sky_15"
+	}
+}

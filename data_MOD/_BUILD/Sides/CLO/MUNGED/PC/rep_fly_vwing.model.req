@@ -1,0 +1,11 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"rep_fly_vwing"
+		"rep_fly_vwing_bump"
+		"rep_fly_vwing_windshield"
+	}
+}

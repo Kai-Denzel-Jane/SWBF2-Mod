@@ -1,0 +1,24 @@
+
+ucft
+{
+	REQN
+	{
+		"animbank"
+		"mace"
+	}
+	REQN
+	{
+		"class"
+		"com_jedi_default"
+		"rep_inf_macewindu_skirt"
+		"rep_weap_lightsaber_obiwanv"
+		"com_weap_inf_sabre_throw"
+		"com_weap_inf_force_push"
+	}
+	REQN
+	{
+		"model"
+		"rep_inf_macewindu"
+		"rep_inf_macewindu_low1"
+	}
+}

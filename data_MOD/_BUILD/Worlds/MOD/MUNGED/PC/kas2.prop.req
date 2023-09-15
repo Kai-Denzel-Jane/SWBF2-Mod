@@ -1,0 +1,14 @@
+
+ucft
+{
+	REQN
+	{
+		"class"
+		"kas_prop_grass_tall"
+	}
+	REQN
+	{
+		"model"
+		"editor_grasspatch"
+	}
+}

@@ -1,0 +1,15 @@
+
+ucft
+{
+	REQN
+	{
+		"class"
+		"com_weap_veh_mortar_ord"
+		"rep_weap_walk_oneman_atst_cannon_exp"
+	}
+	REQN
+	{
+		"model"
+		"com_weap_inf_grenadethermal_ord"
+	}
+}

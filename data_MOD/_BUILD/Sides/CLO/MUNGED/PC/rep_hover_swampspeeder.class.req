@@ -1,0 +1,40 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"combatspeeder_icon"
+		"hud_combat_speeder_icon"
+	}
+	REQN
+	{
+		"anim"
+		"human_drive"
+	}
+	REQN
+	{
+		"config"
+		"com_sfx_waterwake_lg"
+		"hailfire_wake"
+		"dirtspray"
+		"com_sfx_chunktrail_sm"
+		"com_sfx_smokeplume"
+		"com_sfx_vehiclespark"
+		"com_sfx_vehiclesmoke"
+	}
+	REQN
+	{
+		"model"
+		"rep_hover_swampspeeder"
+		"rep_hover_fightertank_chunk1"
+		"rep_hover_fightertank_chunk2"
+		"rep_hover_fightertank_chunk3"
+	}
+	REQN
+	{
+		"class"
+		"rep_hover_fightertank_exp"
+		"rep_weap_walk_atte_rear_gun"
+	}
+}

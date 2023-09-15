@@ -1,0 +1,21 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"com_sfx_laser_blue"
+	}
+	REQN
+	{
+		"config"
+		"com_sfx_watersplash_sm"
+		"com_sfx_explosion_sm"
+	}
+	REQN
+	{
+		"class"
+		"rep_weap_hover_fightertank_cannon1_exp"
+		"com_weap_inf_ord_hum_lg"
+	}
+}

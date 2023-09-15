@@ -1,0 +1,21 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"rep_gunner_icon"
+		"rep_inf_sharpshooter"
+	}
+	REQN
+	{
+		"class"
+		"rep_inf_default_sniper"
+	}
+	REQN
+	{
+		"model"
+		"rep_inf_trooper"
+		"rep_inf_trooper_low1"
+	}
+}

@@ -1,0 +1,54 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"atte_icon"
+		"hud_rep_atte_icon"
+	}
+	REQN
+	{
+		"animbank"
+		"rep_walk_atte"
+	}
+	REQN
+	{
+		"anim"
+		"human_drive"
+	}
+	REQN
+	{
+		"config"
+		"ginormousdustcloud"
+		"com_sfx_vehiclespark"
+		"com_sfx_vehiclesmoke"
+		"com_sfx_vehicleflame"
+		"com_sfx_walkerstomp"
+		"com_sfx_explosion_lg"
+		"com_sfx_chunktrail_sm"
+		"dirtspray"
+		"com_sfx_smokeplume"
+	}
+	REQN
+	{
+		"model"
+		"rep_walk_atte"
+		"rep_walk_atte_chunk1"
+		"rep_walk_atte_chunk2"
+		"rep_walk_atte_chunk3"
+		"rep_walk_atte_chunk4"
+		"rep_walk_atte_chunk5"
+		"rep_walk_atte_chunk6"
+	}
+	REQN
+	{
+		"class"
+		"rep_walk_atte_exp"
+		"atat_explosion"
+		"rep_weap_walk_atte_laser"
+		"rep_weap_walk_atte_recoilless"
+		"rep_weap_walk_atte_turret_cannon"
+		"rep_weap_walk_atte_rear_gun"
+	}
+}

@@ -1,0 +1,20 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"rep_trooper_icon"
+	}
+	REQN
+	{
+		"class"
+		"rep_inf_default_rifleman"
+	}
+	REQN
+	{
+		"model"
+		"rep_inf_trooper"
+		"rep_inf_trooper_low1"
+	}
+}

@@ -1,0 +1,18 @@
+
+ucft
+{
+	REQN
+	{
+		"class"
+		"rep_inf_default"
+		"rep_weap_inf_emp_launcher"
+		"rep_weap_inf_commando_pistol"
+		"rep_weap_inf_thermaldetonator"
+		"rep_weap_award_pistol"
+	}
+	REQN
+	{
+		"config"
+		"rep_sfx_jetpack"
+	}
+}

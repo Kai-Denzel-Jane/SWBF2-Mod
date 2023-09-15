@@ -1,0 +1,10 @@
+
+ucft
+{
+	REQN
+	{
+		"class"
+		"com_weap_veh_fly_chaingun"
+		"rep_weap_fly_vwing_cannon_ord"
+	}
+}

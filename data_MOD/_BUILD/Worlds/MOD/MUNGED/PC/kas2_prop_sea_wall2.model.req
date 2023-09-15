@@ -1,0 +1,12 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"kas2_prop_barrier"
+		"kas1_wookie_seawall02"
+		"noicon"
+		"kas1_wookie_seawall01"
+	}
+}

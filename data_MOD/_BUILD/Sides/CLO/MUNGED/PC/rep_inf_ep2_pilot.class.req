@@ -1,0 +1,20 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"rep_pilot_icon"
+	}
+	REQN
+	{
+		"class"
+		"rep_inf_default_pilot"
+	}
+	REQN
+	{
+		"model"
+		"rep_inf_pilot"
+		"rep_inf_pilot_low1"
+	}
+}

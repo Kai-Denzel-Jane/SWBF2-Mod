@@ -1,0 +1,126 @@
+Logging LevelPack
+17:48:3609/15/23
+
+=== allxwing.lvl ===
+Missing file all_1st_cockpit_xwing.model
+    Reqd by ..\..\..\sides\clo\req\fpm\allxwing.req
+
+=== reparc.lvl ===
+Missing file rep_1st_inf_arctrooper_arms.texture
+    Reqd by munged\pc\rep_1st_arctrooper.model.req
+Missing file rep_1st_inf_clonetrooper_hands.texture
+    Reqd by munged\pc\rep_1st_arctrooper.model.req
+
+=== repatted.lvl ===
+Missing file rep_cockpit_fx.texture
+    Reqd by munged\pc\rep_1st_cockpit_atte.model.req
+Missing file rep_cockpit_win.texture
+    Reqd by munged\pc\rep_1st_cockpit_atte.model.req
+Missing file rep_1st_cockpit_atte.texture
+    Reqd by munged\pc\rep_1st_cockpit_atte.model.req
+
+=== repatxtp.lvl ===
+Missing file rep_1st_cockpit_atxt.model
+    Reqd by ..\..\..\sides\clo\req\fpm\repatxtp.req
+
+=== repcmspd.lvl ===
+Missing file rep_1st_cockpit_combatspeeder.texture
+    Reqd by munged\pc\rep_1st_cockpit_combatspeeder.model.req
+Missing file rep_cockpit_fx.texture
+    Reqd by munged\pc\rep_1st_cockpit_combatspeeder.model.req
+Missing file rep_cockpit_win.texture
+    Reqd by munged\pc\rep_1st_cockpit_combatspeeder.model.req
+
+=== repcomm.lvl ===
+Missing file rep_1st_inf_clonecommander_arms.texture
+    Reqd by munged\pc\rep_1st_clonecommander.model.req
+Missing file rep_1st_inf_clonetrooper_hands.texture
+    Reqd by munged\pc\rep_1st_clonecommander.model.req
+
+=== repfelsn.lvl ===
+Missing file rep_1st_inf_feluciatrooper_arms.texture
+    Reqd by munged\pc\rep_1st_feluciatrooper.model.req
+Missing file rep_1st_inf_feluciatrooper_hands.texture
+    Reqd by munged\pc\rep_1st_feluciatrooper.model.req
+
+=== repftrtk.lvl ===
+Missing file rep_cockpit_fx.texture
+    Reqd by munged\pc\rep_1st_cockpit_fightertank.model.req
+Missing file rep_1st_cockpit_fightertank.texture
+    Reqd by munged\pc\rep_1st_cockpit_fightertank.model.req
+Missing file rep_cockpit_win.texture
+    Reqd by munged\pc\rep_1st_cockpit_fightertank.model.req
+
+=== repgunnr.lvl ===
+Missing file rep_inf_gunner.texture
+    Reqd by munged\pc\rep_1st_gunner.model.req
+
+=== repgunsh.lvl ===
+Missing file rep_cockpit_fx.texture
+    Reqd by munged\pc\rep_1st_cockpit_gunship.model.req
+Missing file rep_cockpit_win.texture
+    Reqd by munged\pc\rep_1st_cockpit_gunship.model.req
+Missing file rep_1st_cockpit_gunship.texture
+    Reqd by munged\pc\rep_1st_cockpit_gunship.model.req
+
+=== repguntr.lvl ===
+Missing file rep_cockpit_win.texture
+    Reqd by munged\pc\rep_1st_cockpit_gunshipgnr.model.req
+Missing file rep_1st_cockpit_gunship.texture
+    Reqd by munged\pc\rep_1st_cockpit_gunshipgnr.model.req
+Missing file rep_cockpit_fx.texture
+    Reqd by munged\pc\rep_1st_cockpit_gunshipgnr.model.req
+
+=== rephtrop.lvl ===
+Missing file rep_inf_htrooper.texture
+    Reqd by munged\pc\rep_1st_htrooper.model.req
+
+=== repjedfi.lvl ===
+Missing file rep_cockpit_win.texture
+    Reqd by munged\pc\rep_1st_cockpit_jedistarfighter.model.req
+Missing file rep_1st_cockpit_jedistarfighter.texture
+    Reqd by munged\pc\rep_1st_cockpit_jedistarfighter.model.req
+Missing file rep_cockpit_fx.texture
+    Reqd by munged\pc\rep_1st_cockpit_jedistarfighter.model.req
+
+=== repjettp.lvl ===
+Missing file rep_1st_inf_jettrooper_arms.texture
+    Reqd by munged\pc\rep_1st_jettrooper.model.req
+Missing file rep_1st_inf_clonetrooper_hands.texture
+    Reqd by munged\pc\rep_1st_jettrooper.model.req
+
+=== repmedic.lvl ===
+Missing file rep_1st_medic.model
+    Reqd by ..\..\..\sides\clo\req\fpm\repmedic.req
+
+=== reppilot.lvl ===
+Missing file rep_1st_inf_clonepilot_arms.texture
+    Reqd by munged\pc\rep_1st_pilot.model.req
+Missing file rep_1st_inf_clonetrooper_hands.texture
+    Reqd by munged\pc\rep_1st_pilot.model.req
+
+=== repsccam.lvl ===
+Missing file rep_cockpit_fx.texture
+    Reqd by munged\pc\rep_1st_cockpit_securitycam.model.req
+Missing file rep_1st_cockpit_securitycam.texture
+    Reqd by munged\pc\rep_1st_cockpit_securitycam.model.req
+
+=== repsharp.lvl ===
+Missing file rep_1st_inf_sharpshooter_arms.texture
+    Reqd by munged\pc\rep_1st_sharpshooter.model.req
+Missing file rep_1st_inf_clonetrooper_hands.texture
+    Reqd by munged\pc\rep_1st_sharpshooter.model.req
+
+=== repspbk.lvl ===
+Missing file imp_1st_cockpit_fx.texture
+    Reqd by munged\pc\rep_1st_cockpit_speederbike.model.req
+Missing file imp_cockpit_speederbike.texture
+    Reqd by munged\pc\rep_1st_cockpit_speederbike.model.req
+
+=== reptroop.lvl ===
+Missing file rep_1st_inf_clonetrooper_arms.texture
+    Reqd by munged\pc\rep_1st_trooper.model.req
+Missing file rep_1st_inf_clonetrooper_hands.texture
+    Reqd by munged\pc\rep_1st_trooper.model.req
+   0 Errors    0 Warnings
+

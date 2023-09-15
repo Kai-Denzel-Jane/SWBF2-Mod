@@ -1,0 +1,49 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"v-wing_icon"
+		"hud_rep_jedistarfighter_icon"
+	}
+	REQN
+	{
+		"animbank"
+		"rep_fly_vwing"
+	}
+	REQN
+	{
+		"anim"
+		"human_drive"
+	}
+	REQN
+	{
+		"model"
+		"hud_vwing_shape"
+		"rep_fly_vwing"
+		"rep_fly_vwing_chunk1"
+		"rep_fly_vwing_chunk2"
+		"rep_fly_vwing_chunk3"
+		"rep_fly_vwing_chunk4"
+	}
+	REQN
+	{
+		"class"
+		"rep_fly_jedifighter_sc_exp"
+		"rep_weap_fly_vwing_cannon"
+		"rep_weap_fly_vwing_ptorpedo"
+	}
+	REQN
+	{
+		"config"
+		"com_sfx_exhaust_jedistarfighter"
+		"com_sfx_contrail"
+		"com_sfx_explosion_lg"
+		"com_sfx_chunktrail_sm"
+		"com_sfx_smokeplume"
+		"com_sfx_vehiclespark_sc"
+		"com_sfx_vehiclesmoke_sc"
+		"com_sfx_vehicleflame_sc"
+	}
+}
