@@ -1,0 +1,47 @@
+[WeaponClass]
+ClassLabel 			= "cannon"
+GeometryName        = "com_weap_inf_grenadethermal.msh"
+
+[Properties]
+GeometryName        = "com_weap_inf_grenadethermal"
+HUDTag = "hud"
+RoundsPerClip 			= "1"
+ReloadTime 			= "0.0"
+LockOnRange			= "40.0"
+
+OffhandWeapon       = 1
+WEAPONSECTION			= 1
+
+OrdnanceName 			= "fst_weap_inf_orbital_beacon_ord"
+
+ShotDelay 			= "1.0"
+ShotElevate                     = "0.21"
+
+TargetEnemy		= "1"
+TargetNeutral		= "0"
+TargetFriendly		= "0"
+
+TargetPerson		= "1"
+TargetAnimal		= "1"
+TargetDroid		= "1"
+TargetVehicle		= "1"
+TargetBuilding		= "1"
+
+AITargetPerson		= "1"
+AITargetAnimal		= "1"
+AITargetDroid		= "1"
+AITargetVehicle		= "1"
+AITargetBuilding	= "1"
+
+SniperScope		= 0
+ZoomFirstPerson		= 0
+ZoomMin			= "2.0"
+ZoomMax			= "2.0"
+ZoomRate		= "0.0"
+MaxPressedTime		= 1.0
+
+HeatPerShot		= "0.0"
+HeatRecoverRate	= "0.0"
+HeatThreshold		= "0.0"
+InitialSalvoDelay		= "0.0"
+ReloadSound     		= "imp_weap_inf_reload_med"

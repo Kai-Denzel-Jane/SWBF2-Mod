@@ -1,0 +1,9 @@
+[GameObjectClass]
+ClassParent         = "ect_inf_default_ARF"
+
+[Properties]
+GeometryName        = "rep_inf_ARF_Trooper"
+GeometryLowRes      = "rep_inf_ARF_Trooper"
+FirstPerson         = "REP\reptroop;rep_1st_trooper"
+
+

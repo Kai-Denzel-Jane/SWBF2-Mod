@@ -1,0 +1,29 @@
+[OrdnanceClass]
+ClassLabel      = "beacon"
+GeometryName        = "com_weap_inf_grenadethermal_ord.msh"
+
+[Properties]
+GeometryName        	= "com_weap_inf_detpack"
+OrdnanceEffect      = "thermal_detonator"
+TrailEffect         = "com_sfx_mineblink_blue"
+OrdnanceName        = "rep_weap_inf_orbital_attack_salvo_ord"
+LifeSpan        = "6.0"
+Velocity        = "2.0"
+Gravity         = "1.25"
+Rebound         = "0.0"
+Friction        = "1.0"
+
+MaxDamage       = "0.0"
+MaxHealth       = "200"
+
+AimAzimuth      = "0.0"
+AimElevation        = "80.0"
+AimDistance     = "700.0"
+
+SalvoCount      = "6"
+SalvoDelay      = "0.6"
+
+ScatterDistance     = "1.2"
+
+OrdnanceSound  = "com_weap_inf_ord_hum_lg"
+CollisionSound = "imp_weap_ord_exp"

@@ -1,0 +1,18 @@
+LightningBolt("com_sfx_lightning")
+{
+	Texture("com_sfx_bluespark");
+	Width(2.5);
+	FadeTime(0.8);
+	BreakDistance(3.0);
+	SpreadFactor(1.8);
+	InterpolationSpeed(9.0);
+	MaxBranches(6);
+	NumChildren(6);
+	BranchFactor(0.75);
+	ChildWidth(0.8);
+	ChildTextureSize(3.0);
+	ChildSpreadFactor(2.0);
+	TextureSize(4.5);
+	Color(020,020,255,250);
+	ChildColor(020,020,255,150);
+}
